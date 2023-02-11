@@ -1,0 +1,83 @@
+{"testCaseName":"Test Cases/Auth/TC01-04_Login","testCaseId":"Test Cases/Auth/TC01-04_Login","iterationVariableName":""}
+{"testCaseName":"Test Cases/Dashboard/TC06_View statistik","testCaseId":"Test Cases/Dashboard/TC06_View statistik","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC07_General setting","testCaseId":"Test Cases/Setting/TC07_General setting","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC08_View role","testCaseId":"Test Cases/Setting/TC08_View role","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC09_Add semester","testCaseId":"Test Cases/Setting/TC09_Add semester","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC10_Add semester tanpa mengisi form","testCaseId":"Test Cases/Setting/TC10_Add semester tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC11_View semester","testCaseId":"Test Cases/Setting/TC11_View semester","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC12_Edit semester","testCaseId":"Test Cases/Setting/TC12_Edit semester","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC13_Edit semester tanpa mengisi form","testCaseId":"Test Cases/Setting/TC13_Edit semester tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC14_Delete semester","testCaseId":"Test Cases/Setting/TC14_Delete semester","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC15_Add category","testCaseId":"Test Cases/Setting/TC15_Add category","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC16_Add category tanpa mengisi form","testCaseId":"Test Cases/Setting/TC16_Add category tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC17_View category","testCaseId":"Test Cases/Setting/TC17_View category","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC18_Edit category","testCaseId":"Test Cases/Setting/TC18_Edit category","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC19_Edit category tanpa mengisi form","testCaseId":"Test Cases/Setting/TC19_Edit category tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC20_Delete category","testCaseId":"Test Cases/Setting/TC20_Delete category","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC21_Add major","testCaseId":"Test Cases/Setting/TC21_Add major","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC22_Add major tanpa mengisi form","testCaseId":"Test Cases/Setting/TC22_Add major tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC23_View major","testCaseId":"Test Cases/Setting/TC23_View major","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC24_Edit major","testCaseId":"Test Cases/Setting/TC24_Edit major","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC25_Edit major tanpa mengisi form","testCaseId":"Test Cases/Setting/TC25_Edit major tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Setting/TC26_Delete major","testCaseId":"Test Cases/Setting/TC26_Delete major","iterationVariableName":""}
+{"testCaseName":"Test Cases/Lecturer/TC27_Add lecturer","testCaseId":"Test Cases/Lecturer/TC27_Add lecturer","iterationVariableName":""}
+{"testCaseName":"Test Cases/Lecturer/TC28_Add lecturer tanpa mengisi form","testCaseId":"Test Cases/Lecturer/TC28_Add lecturer tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Lecturer/TC29_View lecturer","testCaseId":"Test Cases/Lecturer/TC29_View lecturer","iterationVariableName":""}
+{"testCaseName":"Test Cases/Lecturer/TC30_Edit lecturer","testCaseId":"Test Cases/Lecturer/TC30_Edit lecturer","iterationVariableName":""}
+{"testCaseName":"Test Cases/Lecturer/TC31_Edit lecturer dengan mengosongkan form","testCaseId":"Test Cases/Lecturer/TC31_Edit lecturer dengan mengosongkan form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Lecturer/TC32_Delete lecturer","testCaseId":"Test Cases/Lecturer/TC32_Delete lecturer","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC33_Add superadmin","testCaseId":"Test Cases/User/TC33_Add superadmin","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC34_Add superadmin tanpa mengisi form","testCaseId":"Test Cases/User/TC34_Add superadmin tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC35_View superadmin","testCaseId":"Test Cases/User/TC35_View superadmin","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC36_Edit superadmin","testCaseId":"Test Cases/User/TC36_Edit superadmin","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC37_Edit superadmin dengan mengosongkan form","testCaseId":"Test Cases/User/TC37_Edit superadmin dengan mengosongkan form","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC38_Delete superadmin","testCaseId":"Test Cases/User/TC38_Delete superadmin","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC39_Add moderator","testCaseId":"Test Cases/User/TC39_Add moderator","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC40_Add moderator tanpa mengisi form","testCaseId":"Test Cases/User/TC40_Add moderator tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC41_View moderator","testCaseId":"Test Cases/User/TC41_View moderator","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC42_Edit moderator","testCaseId":"Test Cases/User/TC42_Edit moderator","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC43_Edit moderator dengan mengosongkan form","testCaseId":"Test Cases/User/TC43_Edit moderator dengan mengosongkan form","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC44_Delete moderator","testCaseId":"Test Cases/User/TC44_Delete moderator","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC45_Add participant","testCaseId":"Test Cases/User/TC45_Add participant","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC46_Add participant tanpa mengisi form","testCaseId":"Test Cases/User/TC46_Add participant tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC47_View participant","testCaseId":"Test Cases/User/TC47_View participant","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC48_Edit participant","testCaseId":"Test Cases/User/TC48_Edit participant","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC49_Edit participant dengan mengosongkan form","testCaseId":"Test Cases/User/TC49_Edit participant dengan mengosongkan form","iterationVariableName":""}
+{"testCaseName":"Test Cases/User/TC50_Delete participant","testCaseId":"Test Cases/User/TC50_Delete participant","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC51_View event di project","testCaseId":"Test Cases/Project/TC51_View event di project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC52_Add project","testCaseId":"Test Cases/Project/TC52_Add project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC53_Add project tanpa mengisi form","testCaseId":"Test Cases/Project/TC53_Add project tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC54_View project","testCaseId":"Test Cases/Project/TC54_View project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC55_Edit project","testCaseId":"Test Cases/Project/TC55_Edit project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC56_Edit project dengan mengosongkan form","testCaseId":"Test Cases/Project/TC56_Edit project dengan mengosongkan form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC57_Delete project","testCaseId":"Test Cases/Project/TC57_Delete project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC58_Export project","testCaseId":"Test Cases/Project/TC58_Export project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Speaker/TC59_Add speaker","testCaseId":"Test Cases/Speaker/TC59_Add speaker","iterationVariableName":""}
+{"testCaseName":"Test Cases/Speaker/TC60_Add speaker tanpa mengisi form","testCaseId":"Test Cases/Speaker/TC60_Add speaker tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Speaker/TC61_View speaker","testCaseId":"Test Cases/Speaker/TC61_View speaker","iterationVariableName":""}
+{"testCaseName":"Test Cases/Speaker/TC62_Edit speaker","testCaseId":"Test Cases/Speaker/TC62_Edit speaker","iterationVariableName":""}
+{"testCaseName":"Test Cases/Speaker/TC63_Edit speaker dengan mengosongkan form","testCaseId":"Test Cases/Speaker/TC63_Edit speaker dengan mengosongkan form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Speaker/TC64_Delete speaker","testCaseId":"Test Cases/Speaker/TC64_Delete speaker","iterationVariableName":""}
+{"testCaseName":"Test Cases/Agenda/TC65_View event di agenda","testCaseId":"Test Cases/Agenda/TC65_View event di agenda","iterationVariableName":""}
+{"testCaseName":"Test Cases/Agenda/TC66_Add agenda","testCaseId":"Test Cases/Agenda/TC66_Add agenda","iterationVariableName":""}
+{"testCaseName":"Test Cases/Agenda/TC67_Add agenda tanpa mengisi form","testCaseId":"Test Cases/Agenda/TC67_Add agenda tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Agenda/TC68_View agenda","testCaseId":"Test Cases/Agenda/TC68_View agenda","iterationVariableName":""}
+{"testCaseName":"Test Cases/Agenda/TC69_Edit agenda","testCaseId":"Test Cases/Agenda/TC69_Edit agenda","iterationVariableName":""}
+{"testCaseName":"Test Cases/Agenda/TC70_Edit agenda dengan mengosongkan form","testCaseId":"Test Cases/Agenda/TC70_Edit agenda dengan mengosongkan form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Agenda/TC71_Delete agenda","testCaseId":"Test Cases/Agenda/TC71_Delete agenda","iterationVariableName":""}
+{"testCaseName":"Test Cases/Event/TC72_View all event","testCaseId":"Test Cases/Event/TC72_View all event","iterationVariableName":""}
+{"testCaseName":"Test Cases/Event/TC73_Add event","testCaseId":"Test Cases/Event/TC73_Add event","iterationVariableName":""}
+{"testCaseName":"Test Cases/Event/TC74_Add event tanpa mengisi form","testCaseId":"Test Cases/Event/TC74_Add event tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Event/TC75_View event","testCaseId":"Test Cases/Event/TC75_View event","iterationVariableName":""}
+{"testCaseName":"Test Cases/Event/TC76_Edit event","testCaseId":"Test Cases/Event/TC76_Edit event","iterationVariableName":""}
+{"testCaseName":"Test Cases/Event/TC77_Edit event dengan mengosongkan form","testCaseId":"Test Cases/Event/TC77_Edit event dengan mengosongkan form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Event/TC78_Delete event","testCaseId":"Test Cases/Event/TC78_Delete event","iterationVariableName":""}
+{"testCaseName":"Test Cases/Quizioner/TC79_View event di quizioner","testCaseId":"Test Cases/Quizioner/TC79_View event di quizioner","iterationVariableName":""}
+{"testCaseName":"Test Cases/Quizioner/TC80_Add quizioner","testCaseId":"Test Cases/Quizioner/TC80_Add quizioner","iterationVariableName":""}
+{"testCaseName":"Test Cases/Quizioner/TC81_Add quizioner tanpa mengisi form","testCaseId":"Test Cases/Quizioner/TC81_Add quizioner tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Quizioner/TC82_View quizioner","testCaseId":"Test Cases/Quizioner/TC82_View quizioner","iterationVariableName":""}
+{"testCaseName":"Test Cases/Quizioner/TC83_Edit quizioner","testCaseId":"Test Cases/Quizioner/TC83_Edit quizioner","iterationVariableName":""}
+{"testCaseName":"Test Cases/Quizioner/TC84_Edit quizioner dengan mengosongkan form","testCaseId":"Test Cases/Quizioner/TC84_Edit quizioner dengan mengosongkan form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Quizioner/TC85_Delete quizioner","testCaseId":"Test Cases/Quizioner/TC85_Delete quizioner","iterationVariableName":""}
+{"testCaseName":"Test Cases/Quizioner/TC86_View response quizioner","testCaseId":"Test Cases/Quizioner/TC86_View response quizioner","iterationVariableName":""}
+{"testCaseName":"Test Cases/Auth/TC05_Logout","testCaseId":"Test Cases/Auth/TC05_Logout","iterationVariableName":""}

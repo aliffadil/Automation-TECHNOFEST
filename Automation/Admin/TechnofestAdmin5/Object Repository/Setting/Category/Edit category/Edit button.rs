@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit button</name>
+   <tag></tag>
+   <elementGuidId>c9ac0e8f-6ef4-476e-b2e1-b619e9d9a611</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mdi.mdi-grease-pencil.menu-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_11']/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>98849148-1f43-4887-a1e9-bfe4cae4f4bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-grease-pencil menu-icon</value>
+      <webElementGuid>3971811f-e98c-4604-a975-69d3324d86a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_11&quot;)/a[@class=&quot;btn btn-sm btn-success btn-round&quot;]/i[@class=&quot;mdi mdi-grease-pencil menu-icon&quot;]</value>
+      <webElementGuid>ae716b07-2a72-4ff7-8258-e833dba08157</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_11']/a/i</value>
+      <webElementGuid>125a0753-c1c7-4576-9abe-3f5f35960071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/a/i</value>
+      <webElementGuid>6c5c3398-81a3-40bd-bcde-09c43561bee1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

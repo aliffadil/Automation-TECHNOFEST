@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Delete button</name>
+   <tag></tag>
+   <elementGuidId>a3ae1a58-0a6e-4f19-a810-5ec29e9e2d84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mdi.mdi-delete</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='1009']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>867dcde2-847c-4f9a-8e8b-dcec79264080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-delete</value>
+      <webElementGuid>81bf9841-c6f5-4afd-a574-f6af36a2b6c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1009&quot;)/i[@class=&quot;mdi mdi-delete&quot;]</value>
+      <webElementGuid>56f1fcea-07f9-4cc4-8e4a-17e6900c9132</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='1009']/i</value>
+      <webElementGuid>777e083d-2252-42d7-9d91-751bb6b8bbda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>e3ec80c1-dd16-496a-b6bb-e8f744953c9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

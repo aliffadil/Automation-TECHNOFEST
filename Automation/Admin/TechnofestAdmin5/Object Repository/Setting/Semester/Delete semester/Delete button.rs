@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Delete button</name>
+   <tag></tag>
+   <elementGuidId>01cee477-1bbd-447f-9c54-4030b5d95e95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mdi.mdi-delete</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='8']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>18b2068b-0349-42ac-8141-8bf3d2d6117c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-delete</value>
+      <webElementGuid>e929b1ce-35f8-41dc-b2fb-f92cb2bc6b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;8&quot;)/i[@class=&quot;mdi mdi-delete&quot;]</value>
+      <webElementGuid>34474c98-da7e-4260-af61-357fb4b10ec2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='8']/i</value>
+      <webElementGuid>9685098f-c086-4f33-998e-854180cc235e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>cb930880-e91a-42e4-bd07-cec52e16522d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

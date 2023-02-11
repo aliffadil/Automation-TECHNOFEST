@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>View button</name>
+   <tag></tag>
+   <elementGuidId>e15c6c36-39a5-45a5-b50c-9381a97daaa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mdi.mdi-eye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_1070']/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a2daf525-b399-412e-baa3-8f0f9f3daefc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-eye</value>
+      <webElementGuid>a467338a-1461-4200-a776-cc3887e13e53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_1070&quot;)/a[@class=&quot;btn btn-sm btn-info btn-round&quot;]/i[@class=&quot;mdi mdi-eye&quot;]</value>
+      <webElementGuid>ec5dfe35-113f-4c9c-a637-abcb1f10f13a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_1070']/a/i</value>
+      <webElementGuid>103cfbc6-3547-45d8-882b-a0eff7f23260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/a/i</value>
+      <webElementGuid>ee37bc69-077a-4996-a90a-4628b8ccf685</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

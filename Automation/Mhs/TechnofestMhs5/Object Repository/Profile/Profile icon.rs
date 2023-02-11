@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Profile icon</name>
+   <tag></tag>
+   <elementGuidId>1a05d3a5-9bfe-42ca-b727-217d821b8f69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-xs.rounded-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='UserDropdown']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>42617786-9d1c-47e5-b6de-02bdf3adf090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-xs rounded-circle</value>
+      <webElementGuid>a8b2397c-9b1e-448f-9a66-d9f95193751f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn-icons-png.flaticon.com/512/149/149071.png</value>
+      <webElementGuid>92e2d7cd-7828-463d-860a-ec3f0219f63c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Profile image</value>
+      <webElementGuid>e6077c56-c998-4f65-b5a3-5a642a0c17c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-scroller&quot;]/nav[@class=&quot;navbar default-layout col-lg-12 col-12 p-0 fixed-top d-flex align-items-top flex-row&quot;]/div[@class=&quot;navbar-menu-wrapper d-flex align-items-top&quot;]/ul[@class=&quot;navbar-nav ms-auto&quot;]/li[@class=&quot;nav-item dropdown d-none d-lg-block user-dropdown&quot;]/a[@id=&quot;UserDropdown&quot;]/img[@class=&quot;img-xs rounded-circle&quot;]</value>
+      <webElementGuid>5b3cb136-1f88-40a7-841f-e05eb0635c99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='UserDropdown']/img</value>
+      <webElementGuid>0278a11f-c9ba-4d05-ae3f-087c7f0d54a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Profile image']</value>
+      <webElementGuid>82045390-0329-40e3-bf98-ee9f18b65166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/img</value>
+      <webElementGuid>9913c22a-2018-4b2b-9bfd-a462e1fcfa24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn-icons-png.flaticon.com/512/149/149071.png' and @alt = 'Profile image']</value>
+      <webElementGuid>0055af24-d323-4536-930b-474659b9e806</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

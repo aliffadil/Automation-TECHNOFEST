@@ -1,0 +1,85 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS01_TechnofestMhs,Chrome 110.0.0.0,,,2023-02-11 13:31:38,2023-02-11 13:34:07,2m - 29.639s,FAILED
+,,,,,,,
+Test Cases/Auth/TC02-05_Login,Chrome 110.0.0.0,,,2023-02-11 13:31:39,2023-02-11 13:32:17,38.559s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-11 13:31:40,2023-02-11 13:31:45,5.363s,PASSED
+"navigateToUrl(""https://technofest.stiki.ac.id/"")",Chrome 110.0.0.0,,,2023-02-11 13:31:45,2023-02-11 13:31:58,12.087s,PASSED
+maximizeWindow(),Chrome 110.0.0.0,,,2023-02-11 13:31:58,2023-02-11 13:31:58,0.252s,PASSED
+"for ([i = 1, i <= 4, (i++)])",Chrome 110.0.0.0,,,2023-02-11 13:31:58,2023-02-11 13:32:16,18.506s,PASSED
+"verifyElementText(findTestObject(""Auth/Login/Alif Fadil Syaifullah""), ""Alif Fadil Syaifullah"")",Chrome 110.0.0.0,,,2023-02-11 13:32:16,2023-02-11 13:32:17,0.950s,PASSED
+,,,,,,,
+Test Cases/Dashboard/TC08_View active project dan non active project,Chrome 110.0.0.0,,,2023-02-11 13:32:17,2023-02-11 13:32:20,2.415s,PASSED
+"verifyElementText(findTestObject(""Dashboard/Active Project""), ""Active Project"")",Chrome 110.0.0.0,,,2023-02-11 13:32:19,2023-02-11 13:32:19,0.577s,PASSED
+"verifyElementText(findTestObject(""Dashboard/Non-Active Project""), ""Non-Active Project"")",Chrome 110.0.0.0,,,2023-02-11 13:32:19,2023-02-11 13:32:20,0.502s,PASSED
+,,,,,,,
+Test Cases/Project/TC09_View event,Chrome 110.0.0.0,,,2023-02-11 13:32:20,2023-02-11 13:32:25,5.707s,PASSED
+"click(findTestObject(""Project/View event/Project""))",Chrome 110.0.0.0,,,2023-02-11 13:32:21,2023-02-11 13:32:22,1.732s,PASSED
+"setText(findTestObject(""Project/View event/Search bar""), ""TECHNOFEST"")",Chrome 110.0.0.0,,,2023-02-11 13:32:22,2023-02-11 13:32:24,1.305s,PASSED
+"verifyElementText(findTestObject(""Project/View event/Event""), ""TECHNOFEST 5.0"")",Chrome 110.0.0.0,,,2023-02-11 13:32:24,2023-02-11 13:32:25,1.086s,PASSED
+"verifyElementText(findTestObject(""Project/View event/Semester""), ""Genap 2022/2023"")",Chrome 110.0.0.0,,,2023-02-11 13:32:25,2023-02-11 13:32:25,0.517s,PASSED
+,,,,,,,
+Test Cases/Project/TC10_Add project,Chrome 110.0.0.0,,,2023-02-11 13:32:25,2023-02-11 13:33:07,41.911s,FAILED
+"click(findTestObject(""Project/Add project/List Projects""))",Chrome 110.0.0.0,,,2023-02-11 13:32:27,2023-02-11 13:32:28,1.255s,PASSED
+"click(findTestObject(""Project/Add project/Add Item""))",Chrome 110.0.0.0,,,2023-02-11 13:32:28,2023-02-11 13:32:31,3.412s,PASSED
+"setText(findTestObject(""Project/Add project/Title""), ""Testproject"")",Chrome 110.0.0.0,,,2023-02-11 13:32:31,2023-02-11 13:32:32,0.977s,PASSED
+"click(findTestObject(""Project/Add project/Category""))",Chrome 110.0.0.0,,,2023-02-11 13:32:32,2023-02-11 13:32:33,0.577s,PASSED
+"setText(findTestObject(""Project/Add project/Search""), ""UI"")",Chrome 110.0.0.0,,,2023-02-11 13:32:33,2023-02-11 13:32:34,0.935s,PASSED
+"sendKeys(findTestObject(""Project/Add project/Search""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-11 13:32:34,2023-02-11 13:32:34,0.579s,PASSED
+"setText(findTestObject(""Project/Add project/Desc2""), ""ini adalah deskripsi project"")",Chrome 110.0.0.0,,,2023-02-11 13:32:34,2023-02-11 13:32:36,1.214s,PASSED
+"uploadFile(findTestObject(""Project/Add project/Poster""), ""C:\FILE\TA\logo.png"")",Chrome 110.0.0.0,,,2023-02-11 13:32:36,2023-02-11 13:33:07,31.776s,FAILED
+,,,,,,,
+Test Cases/Project/TC11_Add project tanpa mengisi form,Chrome 110.0.0.0,,,2023-02-11 13:33:07,2023-02-11 13:33:15,7.498s,PASSED
+"click(findTestObject(""Project/View project/Project""))",Chrome 110.0.0.0,,,2023-02-11 13:33:08,2023-02-11 13:33:10,1.759s,PASSED
+"click(findTestObject(""Project/View project/List Projects""))",Chrome 110.0.0.0,,,2023-02-11 13:33:10,2023-02-11 13:33:12,1.371s,PASSED
+"click(findTestObject(""Project/Add project/Add Item""))",Chrome 110.0.0.0,,,2023-02-11 13:33:12,2023-02-11 13:33:14,1.994s,PASSED
+"scrollToElement(findTestObject(""Project/Add project/Submit button""), 0)",Chrome 110.0.0.0,,,2023-02-11 13:33:14,2023-02-11 13:33:14,0.590s,PASSED
+"click(findTestObject(""Project/Add project/Submit button""))",Chrome 110.0.0.0,,,2023-02-11 13:33:14,2023-02-11 13:33:15,0.567s,PASSED
+back(),Chrome 110.0.0.0,,,2023-02-11 13:33:15,2023-02-11 13:33:15,0.155s,PASSED
+,,,,,,,
+Test Cases/Project/TC12_View project,Chrome 110.0.0.0,,,2023-02-11 13:33:15,2023-02-11 13:33:19,3.767s,PASSED
+"click(findTestObject(""Project/View project/View button""))",Chrome 110.0.0.0,,,2023-02-11 13:33:16,2023-02-11 13:33:17,1.538s,PASSED
+"verifyElementText(findTestObject(""Project/View project/Detail Test Project""), ""Detail Test Project"")",Chrome 110.0.0.0,,,2023-02-11 13:33:17,2023-02-11 13:33:18,0.675s,PASSED
+"scrollToElement(findTestObject(""Project/View project/Link Video""), 0)",Chrome 110.0.0.0,,,2023-02-11 13:33:18,2023-02-11 13:33:19,0.459s,PASSED
+back(),Chrome 110.0.0.0,,,2023-02-11 13:33:19,2023-02-11 13:33:19,0.093s,PASSED
+,,,,,,,
+Test Cases/Project/TC13_Edit project,Chrome 110.0.0.0,,,2023-02-11 13:33:19,2023-02-11 13:33:34,15.357s,PASSED
+"setText(findTestObject(""Project/Edit Project/Search""), ""edit"")",Chrome 110.0.0.0,,,2023-02-11 13:33:20,2023-02-11 13:33:21,0.877s,PASSED
+"click(findTestObject(""Project/Edit Project/Edit button""))",Chrome 110.0.0.0,,,2023-02-11 13:33:21,2023-02-11 13:33:23,2.525s,PASSED
+"clearText(findTestObject(""Project/Edit Project/Title""))",Chrome 110.0.0.0,,,2023-02-11 13:33:23,2023-02-11 13:33:24,0.628s,PASSED
+"setText(findTestObject(""Project/Edit Project/Title""), ""Edit project baru"")",Chrome 110.0.0.0,,,2023-02-11 13:33:24,2023-02-11 13:33:25,1.336s,PASSED
+"clearText(findTestObject(""Project/Edit Project/Link code""))",Chrome 110.0.0.0,,,2023-02-11 13:33:25,2023-02-11 13:33:26,0.565s,PASSED
+"setText(findTestObject(""Project/Edit Project/Link code""), ""inicode.com"")",Chrome 110.0.0.0,,,2023-02-11 13:33:26,2023-02-11 13:33:27,0.931s,PASSED
+"clearText(findTestObject(""Project/Edit Project/Link demo""))",Chrome 110.0.0.0,,,2023-02-11 13:33:27,2023-02-11 13:33:27,0.636s,PASSED
+"setText(findTestObject(""Project/Edit Project/Link demo""), ""inidemo.com"")",Chrome 110.0.0.0,,,2023-02-11 13:33:27,2023-02-11 13:33:28,0.977s,PASSED
+"clearText(findTestObject(""Project/Edit Project/Link video""))",Chrome 110.0.0.0,,,2023-02-11 13:33:28,2023-02-11 13:33:29,0.579s,PASSED
+"setText(findTestObject(""Project/Edit Project/Link video""), ""inivideo.com"")",Chrome 110.0.0.0,,,2023-02-11 13:33:29,2023-02-11 13:33:30,0.890s,PASSED
+"click(findTestObject(""Project/Edit Project/Submit button""))",Chrome 110.0.0.0,,,2023-02-11 13:33:30,2023-02-11 13:33:34,4.221s,PASSED
+,,,,,,,
+Test Cases/Project/TC14_Edit project dengan mengosongkan form,Chrome 110.0.0.0,,,2023-02-11 13:33:34,2023-02-11 13:33:44,10.491s,PASSED
+"setText(findTestObject(""Project/Edit Project/Search""), ""Edit"")",Chrome 110.0.0.0,,,2023-02-11 13:33:35,2023-02-11 13:33:36,1.233s,PASSED
+"click(findTestObject(""Project/Edit Project/Edit button""))",Chrome 110.0.0.0,,,2023-02-11 13:33:36,2023-02-11 13:33:39,3.159s,PASSED
+"clearText(findTestObject(""Project/Edit Project/Title""))",Chrome 110.0.0.0,,,2023-02-11 13:33:39,2023-02-11 13:33:40,0.535s,PASSED
+"clearText(findTestObject(""Project/Edit Project/Link code""))",Chrome 110.0.0.0,,,2023-02-11 13:33:40,2023-02-11 13:33:41,0.572s,PASSED
+"clearText(findTestObject(""Project/Edit Project/Link demo""))",Chrome 110.0.0.0,,,2023-02-11 13:33:41,2023-02-11 13:33:41,0.559s,PASSED
+"clearText(findTestObject(""Project/Edit Project/Link video""))",Chrome 110.0.0.0,,,2023-02-11 13:33:41,2023-02-11 13:33:42,0.522s,PASSED
+"click(findTestObject(""Project/Edit Project/Submit button""))",Chrome 110.0.0.0,,,2023-02-11 13:33:42,2023-02-11 13:33:44,2.628s,PASSED
+back(),Chrome 110.0.0.0,,,2023-02-11 13:33:44,2023-02-11 13:33:44,0.198s,PASSED
+,,,,,,,
+Test Cases/Project/TC15_Delete project,Chrome 110.0.0.0,,,2023-02-11 13:33:45,2023-02-11 13:33:49,4.723s,PASSED
+"setText(findTestObject(""Project/Delete project/Search""), ""delete"")",Chrome 110.0.0.0,,,2023-02-11 13:33:46,2023-02-11 13:33:46,0.831s,PASSED
+"click(findTestObject(""Project/Delete project/Delete button2""))",Chrome 110.0.0.0,,,2023-02-11 13:33:46,2023-02-11 13:33:48,1.160s,PASSED
+"click(findTestObject(""Project/Delete project/Yes button""))",Chrome 110.0.0.0,,,2023-02-11 13:33:48,2023-02-11 13:33:49,1.660s,PASSED
+,,,,,,,
+Test Cases/Profile/TC16_Edit profile,Chrome 110.0.0.0,,,2023-02-11 13:33:49,2023-02-11 13:34:00,11.083s,PASSED
+"click(findTestObject(""Profile/Profile icon""))",Chrome 110.0.0.0,,,2023-02-11 13:33:50,2023-02-11 13:33:54,3.479s,PASSED
+"click(findTestObject(""Profile/My Profile""))",Chrome 110.0.0.0,,,2023-02-11 13:33:54,2023-02-11 13:33:55,1.243s,PASSED
+"clearText(findTestObject(""Profile/Name""))",Chrome 110.0.0.0,,,2023-02-11 13:33:55,2023-02-11 13:33:56,0.895s,PASSED
+"setText(findTestObject(""Profile/Name""), ""Alif Fadil"")",Chrome 110.0.0.0,,,2023-02-11 13:33:56,2023-02-11 13:33:57,1.296s,PASSED
+"clearText(findTestObject(""Profile/Telephone""))",Chrome 110.0.0.0,,,2023-02-11 13:33:57,2023-02-11 13:33:58,0.577s,PASSED
+"setText(findTestObject(""Profile/Telephone""), ""08231234567"")",Chrome 110.0.0.0,,,2023-02-11 13:33:58,2023-02-11 13:33:59,0.865s,PASSED
+"click(findTestObject(""Profile/Submit button""))",Chrome 110.0.0.0,,,2023-02-11 13:33:59,2023-02-11 13:34:00,1.674s,PASSED
+,,,,,,,
+Test Cases/Auth/TC07_Logout,Chrome 110.0.0.0,,,2023-02-11 13:34:00,2023-02-11 13:34:07,7.079s,PASSED
+"click(findTestObject(""Auth/Logout/Icon user""))",Chrome 110.0.0.0,,,2023-02-11 13:34:01,2023-02-11 13:34:05,3.551s,PASSED
+"click(findTestObject(""Auth/Logout/Sign Out""))",Chrome 110.0.0.0,,,2023-02-11 13:34:05,2023-02-11 13:34:06,1.463s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-11 13:34:06,2023-02-11 13:34:07,1.009s,PASSED

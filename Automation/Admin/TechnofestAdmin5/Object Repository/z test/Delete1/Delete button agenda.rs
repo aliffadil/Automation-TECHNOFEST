@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Delete button agenda</name>
+   <tag></tag>
+   <elementGuidId>4fad6592-7dd0-4a46-8703-a4b75638d073</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='13']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#13 > i.mdi.mdi-delete</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4cbead52-234c-41a6-946a-00c152cf6329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-delete</value>
+      <webElementGuid>e14cd7f1-65a0-4fb3-867a-798d57c6101f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;13&quot;)/i[@class=&quot;mdi mdi-delete&quot;]</value>
+      <webElementGuid>a3fc2fd3-12f8-4f0b-8175-672665535bee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='13']/i</value>
+      <webElementGuid>d0d28a79-96d0-4280-8261-10075007fb05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[5]/form/button/i</value>
+      <webElementGuid>3bdfe628-996f-45db-a4c5-a5f0dfdfe9ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

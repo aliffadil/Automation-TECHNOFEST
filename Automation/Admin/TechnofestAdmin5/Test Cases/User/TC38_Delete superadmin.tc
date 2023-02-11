@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC38_Delete superadmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff1c0a84-03d0-4525-851b-b79cdb1054b1</testCaseGuid>
+</TestCaseEntity>

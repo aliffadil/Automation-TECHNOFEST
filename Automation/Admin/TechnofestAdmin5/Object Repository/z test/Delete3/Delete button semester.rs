@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Delete button semester</name>
+   <tag></tag>
+   <elementGuidId>47a857ef-6f63-44f6-b88a-99cedda5f7f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='14']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#14 > i.mdi.mdi-delete</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>04fe2633-923a-40a5-8777-6c4947b1e036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-delete</value>
+      <webElementGuid>80e54e9c-9862-412d-a103-53ee068a6414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;14&quot;)/i[@class=&quot;mdi mdi-delete&quot;]</value>
+      <webElementGuid>b3be8e2a-6bf8-4ff9-8c29-99d605d030d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='14']/i</value>
+      <webElementGuid>0d2887e9-8666-4e5f-aa4f-4507379a168e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[6]/form/button/i</value>
+      <webElementGuid>d87e6533-0831-4434-8839-c5d7744db7e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

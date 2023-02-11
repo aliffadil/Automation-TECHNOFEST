@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TECHNOFEST 2.0</name>
+   <tag></tag>
+   <elementGuidId>20f46718-74e8-4901-9d34-da39076cd460</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/ul/li[6]/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2d278f20-a401-49bf-9953-0a7807f989f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://technofest.stiki.ac.id/en/event/2</value>
+      <webElementGuid>b5f3b96c-9970-4f32-ac90-6c03bda7fe65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TECHNOFEST 2.0</value>
+      <webElementGuid>6a4dad45-1550-4153-a75e-272bf14b8777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navigation clearfix&quot;]/li[@class=&quot;dropdown&quot;]/ul[1]/li[5]/a[1]</value>
+      <webElementGuid>a562fe3c-9387-4bd7-96bb-b42700e2e464</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li[6]/ul/li[5]/a</value>
+      <webElementGuid>be7dfeee-0d8f-4251-aef4-bb76ebf95f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'TECHNOFEST 2.0')]</value>
+      <webElementGuid>fc442b2e-a1c4-4a6d-bc4b-d45c58c20f5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TECHNOFEST 3.0'])[1]/following::a[1]</value>
+      <webElementGuid>91cc1f6f-7ab0-4b6d-870a-c4faa57ee05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TECHNOFEST 4.0'])[1]/following::a[2]</value>
+      <webElementGuid>ecc16dc0-0f96-445e-9484-e86994d2701d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TECHNOFEST 1.0'])[1]/preceding::a[1]</value>
+      <webElementGuid>ce7d936d-a810-481f-a5af-b27fb514ee2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quizioner'])[1]/preceding::a[2]</value>
+      <webElementGuid>1b1ec590-d3fc-4f7d-8b1f-8ff3b6827828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TECHNOFEST 2.0']/parent::*</value>
+      <webElementGuid>c9958753-25c3-45e8-b0af-0546f95beac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://technofest.stiki.ac.id/en/event/2')]</value>
+      <webElementGuid>9938e912-fb0a-4ccc-bdd9-8c82f07292b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li[5]/a</value>
+      <webElementGuid>86234df2-c584-4fd2-907f-29d880039dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://technofest.stiki.ac.id/en/event/2' and (text() = 'TECHNOFEST 2.0' or . = 'TECHNOFEST 2.0')]</value>
+      <webElementGuid>ce77b09a-dd15-4b9f-ab05-b0b993eded77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>How to Design A Mobile App in Lunacy</name>
+   <tag></tag>
+   <elementGuidId>0cc0da17-2039-4ddb-bfa8-51935b576cac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='agenda']/div[2]/div[2]/div/div[3]/div/div/h4/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b2e603d7-441c-44d1-89e5-a86ef3a4aee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-agenda</value>
+      <webElementGuid>80d50ba7-90ca-4693-b4e9-5c3f49604181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>cdbdf787-f9ee-4a4d-855e-20d8aaef2606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-poster</name>
+      <type>Main</type>
+      <value>agenda/cO1EbQJuy6NjGWEbmqNPNStzmgKJLfYtZVF0wALk.jpg</value>
+      <webElementGuid>6d832923-7db8-4548-86ff-f7efa645e5ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>How to Design A Mobile App in Lunacy</value>
+      <webElementGuid>dd74a8bc-207f-4472-a88f-77f56f622707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;agenda&quot;)/div[@class=&quot;auto-container&quot;]/div[@class=&quot;schedule-tabs tabs-box&quot;]/div[@class=&quot;schedule-timeline&quot;]/div[@class=&quot;schedule-block&quot;]/div[@class=&quot;inner-box&quot;]/div[@class=&quot;inner&quot;]/h4[1]/a[@class=&quot;btn-agenda&quot;]</value>
+      <webElementGuid>e4057d42-6fb1-476c-a9cd-07530b35c77c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='agenda']/div[2]/div[2]/div/div[3]/div/div/h4/a</value>
+      <webElementGuid>ecf25506-64e1-4b7c-8325-0139deaac132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'How to Design A Mobile App in Lunacy')]</value>
+      <webElementGuid>cee63aef-fea0-4499-ba7b-c879712d0b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Speaker: Bramastha Attila Noval'])[1]/following::a[1]</value>
+      <webElementGuid>db7a47eb-c602-4ba1-8b95-06bc01dd5526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How To Get To Know ERP With The ODOO Framework'])[1]/following::a[1]</value>
+      <webElementGuid>2a4da499-9e77-4d13-9658-5c7b0f38ba8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Speaker: Adnan Zulkarnain, S.Kom., M.M.S.I'])[1]/preceding::a[1]</value>
+      <webElementGuid>01cb2aff-c45a-4ea3-86d7-cbbed28d2f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peluang dan Tantangan IT Developer Masa Depan'])[1]/preceding::a[1]</value>
+      <webElementGuid>132194d3-aa42-4cb8-80a7-5c5a0f76f229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='How to Design A Mobile App in Lunacy']/parent::*</value>
+      <webElementGuid>bca68b9f-0747-40f5-b31a-11b6a6b49372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[10]</value>
+      <webElementGuid>87892625-2bcc-430c-8f99-33ee9e8f316c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div/h4/a</value>
+      <webElementGuid>5f34fc11-830d-4349-aa8a-99178ebeff7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'How to Design A Mobile App in Lunacy' or . = 'How to Design A Mobile App in Lunacy')]</value>
+      <webElementGuid>cb8d7922-6cf7-4e73-a175-29585cd5fbe9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

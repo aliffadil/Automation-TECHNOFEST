@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Adnan Zulkarnain, S.Kom., M.M.S.I</name>
+   <tag></tag>
+   <elementGuidId>cbdec969-1303-4efb-b44b-6880b5ca7517</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='pembicara']/div/div[2]/div[2]/div/div[2]/h4/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a34fd9c7-0a98-4b36-8a40-d16dd471e83e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9a635b20-2881-4f8c-a457-ce9aadd1f181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Adnan Zulkarnain, S.Kom., M.M.S.I</value>
+      <webElementGuid>0f40fbce-852f-4cca-aa70-23480aac31a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pembicara&quot;)/div[@class=&quot;auto-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;speaker-block-three col-xl-3 col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated&quot;]/div[@class=&quot;inner-box&quot;]/div[@class=&quot;info-box&quot;]/h4[@class=&quot;name&quot;]/a[1]</value>
+      <webElementGuid>99a80314-af67-4262-8df0-3f40ac8c4254</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='pembicara']/div/div[2]/div[2]/div/div[2]/h4/a</value>
+      <webElementGuid>b0f5510a-ed06-47ae-849d-24e447128edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Adnan Zulkarnain, S.Kom., M.M.S.I')]</value>
+      <webElementGuid>c98df6b5-8efa-4cee-962e-cae6366f51d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Intern MSIB Batch 3'])[1]/following::a[2]</value>
+      <webElementGuid>602f214a-fd09-4f66-81c8-696915011801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EVENT'])[1]/following::a[4]</value>
+      <webElementGuid>9317ae20-3403-4c59-9ead-39318574cdbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coordinator Laboratorium System Development STIKI Malang'])[1]/preceding::a[1]</value>
+      <webElementGuid>8a15fb6c-5dfa-4e2e-abfb-77bbb01e4908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Development Excecutive Hashmicro'])[1]/preceding::a[3]</value>
+      <webElementGuid>6022331d-a5ea-4216-9ac7-9c535fdc899d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Adnan Zulkarnain, S.Kom., M.M.S.I']/parent::*</value>
+      <webElementGuid>7283d708-ae5b-482d-ab78-b70ff1fb9557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[9]</value>
+      <webElementGuid>9aa71727-3412-46c2-8fc6-b8da30a6e1b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/h4/a</value>
+      <webElementGuid>5022c0cf-9dfe-470d-b3c5-c97f11083f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Adnan Zulkarnain, S.Kom., M.M.S.I' or . = 'Adnan Zulkarnain, S.Kom., M.M.S.I')]</value>
+      <webElementGuid>f8495f12-d4fd-4d19-9271-04f7f0b7d08a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

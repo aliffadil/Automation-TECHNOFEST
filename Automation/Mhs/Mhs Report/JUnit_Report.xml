@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS01_TechnofestMhs" time="149.639" tests="11" failures="1" errors="0">
+   <testsuite name="TS01_TechnofestMhs" tests="11" failures="1" errors="0" time="149.639" skipped="0" timestamp="2023-02-11 13:31:38" hostname="GA502GU - DESKTOP-O2JTDS3" id="Test Suites/TS01_TechnofestMhs">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\GA502GU\\Katalon Studio\\TechnofestMhs5\\Reports\\20230211_133121\\TS01_TechnofestMhs\\20230211_133121"/>
+         <property name="logFiles" value="C:\\Users\\GA502GU\\Katalon Studio\\TechnofestMhs5\\Reports\\20230211_133121\\TS01_TechnofestMhs\\20230211_133121\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\GA502GU\\Katalon Studio\\TechnofestMhs5\\Reports\\20230211_133121\\TS01_TechnofestMhs\\20230211_133121\\1676097187454.png"/>
+         <property name="hostName" value="GA502GU - DESKTOP-O2JTDS3"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 110.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.5"/>
+         <property name="sessionId" value="ce8230fc293c9435f4c7729f94e0df2b"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Auth/TC02-05_Login" time="38.559" classname="Test Cases/Auth/TC02-05_Login" status="PASSED">
+         <system-out><![CDATA[2023-02-11 13:31:39 - [TEST_CASE][PASSED] - Test Cases/Auth/TC02-05_Login: Test Cases/Auth/TC02-05_Login
+
+2023-02-11 13:31:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-11 13:31:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-11 13:31:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-11 13:31:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-11 13:31:45 - [TEST_STEP][PASSED] - navigateToUrl("https://technofest.stiki.ac.id/"): Navigate to 'https://technofest.stiki.ac.id/' successfully
+
+2023-02-11 13:31:58 - [MESSAGE][PASSED] - Navigate to 'https://technofest.stiki.ac.id/' successfully
+
+2023-02-11 13:31:58 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-02-11 13:31:58 - [MESSAGE][PASSED] - Current window maximized
+
+2023-02-11 13:31:58 - [TEST_STEP][PASSED] - for ([i = 1, i <= 4, (i++)]): Object: 'Object Repository/Auth/Login/Login button' is clicked on
+
+2023-02-11 13:31:58 - [TEST_STEP][PASSED] - navigateToUrl("https://technofest.stiki.ac.id/en/login"): Navigate to 'https://technofest.stiki.ac.id/en/login' successfully
+
+2023-02-11 13:31:58 - [MESSAGE][PASSED] - Navigate to 'https://technofest.stiki.ac.id/en/login' successfully
+
+2023-02-11 13:31:58 - [TEST_STEP][PASSED] - setText(findTestObject("Auth/Login/Email"), findTestData("Data Login").getValue(1, i)): Text '191131777@mhs.stiki.ac.id' is set on object 'Object Repository/Auth/Login/Email'
+
+2023-02-11 13:32:00 - [MESSAGE][PASSED] - Text '191131777@mhs.stiki.ac.id' is set on object 'Object Repository/Auth/Login/Email'
+
+2023-02-11 13:32:00 - [TEST_STEP][PASSED] - setText(findTestObject("Auth/Login/Password"), findTestData("Data Login").getValue(2, i)): Text 'alif1234' is set on object 'Object Repository/Auth/Login/Password'
+
+2023-02-11 13:32:01 - [MESSAGE][PASSED] - Text 'alif1234' is set on object 'Object Repository/Auth/Login/Password'
+
+2023-02-11 13:32:01 - [TEST_STEP][PASSED] - click(findTestObject("Auth/Login/Login button")): Object: 'Object Repository/Auth/Login/Login button' is clicked on
+
+2023-02-11 13:32:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Auth/Login/Login button' is clicked on
+
+2023-02-11 13:32:03 - [TEST_STEP][PASSED] - navigateToUrl("https://technofest.stiki.ac.id/en/login"): Navigate to 'https://technofest.stiki.ac.id/en/login' successfully
+
+2023-02-11 13:32:03 - [MESSAGE][PASSED] - Navigate to 'https://technofest.stiki.ac.id/en/login' successfully
+
+2023-02-11 13:32:03 - [TEST_STEP][PASSED] - setText(findTestObject("Auth/Login/Email"), findTestData("Data Login").getValue(1, i)): Text '191131007@mhs.stiki.ac.id' is set on object 'Object Repository/Auth/Login/Email'
+
+2023-02-11 13:32:05 - [MESSAGE][PASSED] - Text '191131007@mhs.stiki.ac.id' is set on object 'Object Repository/Auth/Login/Email'
+
+2023-02-11 13:32:05 - [TEST_STEP][PASSED] - setText(findTestObject("Auth/Login/Password"), findTestData("Data Login").getValue(2, i)): Text 'alif7777' is set on object 'Object Repository/Auth/Login/Password'
+
+2023-02-11 13:32:06 - [MESSAGE][PASSED] - Text 'alif7777' is set on object 'Object Repository/Auth/Login/Password'
+
+2023-02-11 13:32:06 - [TEST_STEP][PASSED] - click(findTestObject("Auth/Login/Login button")): Object: 'Object Repository/Auth/Login/Login button' is clicked on
+
+2023-02-11 13:32:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Auth/Login/Login button' is clicked on
+
+2023-02-11 13:32:07 - [TEST_STEP][PASSED] - navigateToUrl("https://technofest.stiki.ac.id/en/login"): Navigate to 'https://technofest.stiki.ac.id/en/login' successfully
+
+2023-02-11 13:32:07 - [MESSAGE][PASSED] - Navigate to 'https://technofest.stiki.ac.id/en/login' successfully
+
+2023-02-11 13:32:07 - [TEST_STEP][PASSED] - setText(findTestObject("Auth/Login/Email"), findTestData("Data Login").getValue(1, i)): Text '191131777@mhs.stiki.ac.id' is set on object 'Object Repository/Auth/Login/Email'
+
+2023-02-11 13:32:08 - [MESSAGE][PASSED] - Text '191131777@mhs.stiki.ac.id' is set on object 'Object Repository/Auth/Login/Email'
+
+2023-02-11 13:32:08 - [TEST_STEP][PASSED] - setText(findTestObject("Auth/Login/Password"), findTestData("Data Login").getValue(2, i)): Text 'alif7777' is set on object 'Object Repository/Auth/Login/Password'
+
+2023-02-11 13:32:09 - [MESSAGE][PASSED] - Text 'alif7777' is set on object 'Object Repository/Auth/Login/Password'
+
+2023-02-11 13:32:09 - [TEST_STEP][PASSED] - click(findTestObject("Auth/Login/Login button")): Object: 'Object Repository/Auth/Login/Login button' is clicked on
+
+2023-02-11 13:32:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Auth/Login/Login button' is clicked on
+
+2023-02-11 13:32:10 - [TEST_STEP][PASSED] - navigateToUrl("https://technofest.stiki.ac.id/en/login"): Navigate to 'https://technofest.stiki.ac.id/en/login' successfully
+
+2023-02-11 13:32:11 - [MESSAGE][PASSED] - Navigate to 'https://technofest.stiki.ac.id/en/login' successfully
+
+2023-02-11 13:32:11 - [TEST_STEP][PASSED] - setText(findTestObject("Auth/Login/Email"), findTestData("Data Login").getValue(1, i)): Text '191131007@mhs.stiki.ac.id' is set on object 'Object Repository/Auth/Login/Email'
+
+2023-02-11 13:32:12 - [MESSAGE][PASSED] - Text '191131007@mhs.stiki.ac.id' is set on object 'Object Repository/Auth/Login/Email'
+
+2023-02-11 13:32:12 - [TEST_STEP][PASSED] - setText(findTestObject("Auth/Login/Password"), findTestData("Data Login").getValue(2, i)): Text 'alif1234' is set on object 'Object Repository/Auth/Login/Password'
+
+2023-02-11 13:32:13 - [MESSAGE][PASSED] - Text 'alif1234' is set on object 'Object Repository/Auth/Login/Password'
+
+2023-02-11 13:32:13 - [TEST_STEP][PASSED] - click(findTestObject("Auth/Login/Login button")): Object: 'Object Repository/Auth/Login/Login button' is clicked on
+
+2023-02-11 13:32:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Auth/Login/Login button' is clicked on
+
+2023-02-11 13:32:16 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Auth/Login/Alif Fadil Syaifullah"), "Alif Fadil Syaifullah"): Actual text and expected text of test object 'Object Repository/Auth/Login/Alif Fadil Syaifullah' are matched.
+
+2023-02-11 13:32:17 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Auth/Login/Alif Fadil Syaifullah' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Dashboard/TC08_View active project dan non active project" time="2.415" classname="Test Cases/Dashboard/TC08_View active project dan non active project" status="PASSED">
+         <system-out><![CDATA[2023-02-11 13:32:17 - [TEST_CASE][PASSED] - Test Cases/Dashboard/TC08_View active project dan non active project: Test Cases/Dashboard/TC08_View active project dan non active project
+
+2023-02-11 13:32:19 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Dashboard/Active Project"), "Active Project"): Actual text and expected text of test object 'Object Repository/Dashboard/Active Project' are matched.
+
+2023-02-11 13:32:19 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Dashboard/Active Project' are matched.
+
+2023-02-11 13:32:19 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Dashboard/Non-Active Project"), "Non-Active Project"): Actual text and expected text of test object 'Object Repository/Dashboard/Non-Active Project' are matched.
+
+2023-02-11 13:32:20 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Dashboard/Non-Active Project' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project/TC09_View event" time="5.707" classname="Test Cases/Project/TC09_View event" status="PASSED">
+         <system-out><![CDATA[2023-02-11 13:32:20 - [TEST_CASE][PASSED] - Test Cases/Project/TC09_View event: Test Cases/Project/TC09_View event
+
+2023-02-11 13:32:21 - [TEST_STEP][PASSED] - click(findTestObject("Project/View event/Project")): Object: 'Object Repository/Project/View event/Project' is clicked on
+
+2023-02-11 13:32:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/View event/Project' is clicked on
+
+2023-02-11 13:32:22 - [TEST_STEP][PASSED] - setText(findTestObject("Project/View event/Search bar"), "TECHNOFEST"): Text 'TECHNOFEST' is set on object 'Object Repository/Project/View event/Search bar'
+
+2023-02-11 13:32:24 - [MESSAGE][PASSED] - Text 'TECHNOFEST' is set on object 'Object Repository/Project/View event/Search bar'
+
+2023-02-11 13:32:24 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Project/View event/Event"), "TECHNOFEST 5.0"): Actual text and expected text of test object 'Object Repository/Project/View event/Event' are matched.
+
+2023-02-11 13:32:25 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Project/View event/Event' are matched.
+
+2023-02-11 13:32:25 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Project/View event/Semester"), "Genap 2022/2023"): Actual text and expected text of test object 'Object Repository/Project/View event/Semester' are matched.
+
+2023-02-11 13:32:25 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Project/View event/Semester' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project/TC10_Add project" time="41.911" classname="Test Cases/Project/TC10_Add project" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Project/TC10_Add project FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to upload file 'C:\FILE\TA\logo.png' to object 'Object Repository/Project/Add project/Poster'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.uploadFile(UploadFileKeyword.groovy:87)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.execute(UploadFileKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.uploadFile(WebUiBuiltInKeywords.groovy:4031)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$uploadFile$6.call(Unknown Source)
+	at TC10_Add project.run(TC10_Add project:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1676097081226.run(TempTestSuite1676097081226.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Project/Add project/Poster' located by '//div[@id='lk0PzQ5R']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.doCall(UploadFileKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.call(UploadFileKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2023-02-11 13:32:25 - [TEST_CASE][FAILED] - Test Cases/Project/TC10_Add project: Test Cases/Project/TC10_Add project FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to upload file 'C:\FILE\TA\logo.png' to object 'Object Repository/Project/Add project/Poster'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.uploadFile(UploadFileKeyword.groovy:87)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.execute(UploadFileKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.uploadFile(WebUiBuiltInKeywords.groovy:4031)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$uploadFile$6.call(Unknown Source)
+	at TC10_Add project.run(TC10_Add project:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1676097081226.run(TempTestSuite1676097081226.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Project/Add project/Poster' located by '//div[@id='lk0PzQ5R']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.doCall(UploadFileKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.call(UploadFileKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2023-02-11 13:32:27 - [TEST_STEP][PASSED] - click(findTestObject("Project/Add project/List Projects")): Object: 'Object Repository/Project/Add project/List Projects' is clicked on
+
+2023-02-11 13:32:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/Add project/List Projects' is clicked on
+
+2023-02-11 13:32:28 - [TEST_STEP][PASSED] - click(findTestObject("Project/Add project/Add Item")): Object: 'Object Repository/Project/Add project/Add Item' is clicked on
+
+2023-02-11 13:32:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/Add project/Add Item' is clicked on
+
+2023-02-11 13:32:31 - [TEST_STEP][PASSED] - setText(findTestObject("Project/Add project/Title"), "Testproject"): Text 'Testproject' is set on object 'Object Repository/Project/Add project/Title'
+
+2023-02-11 13:32:32 - [MESSAGE][PASSED] - Text 'Testproject' is set on object 'Object Repository/Project/Add project/Title'
+
+2023-02-11 13:32:32 - [TEST_STEP][PASSED] - click(findTestObject("Project/Add project/Category")): Object: 'Object Repository/Project/Add project/Category' is clicked on
+
+2023-02-11 13:32:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/Add project/Category' is clicked on
+
+2023-02-11 13:32:33 - [TEST_STEP][PASSED] - setText(findTestObject("Project/Add project/Search"), "UI"): Text 'UI' is set on object 'Object Repository/Project/Add project/Search'
+
+2023-02-11 13:32:34 - [MESSAGE][PASSED] - Text 'UI' is set on object 'Object Repository/Project/Add project/Search'
+
+2023-02-11 13:32:34 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Project/Add project/Search"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Project/Add project/Search'
+
+2023-02-11 13:32:34 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Project/Add project/Search'
+
+2023-02-11 13:32:34 - [TEST_STEP][PASSED] - setText(findTestObject("Project/Add project/Desc2"), "ini adalah deskripsi project"): Text 'ini adalah deskripsi project' is set on object 'Object Repository/Project/Add project/Desc2'
+
+2023-02-11 13:32:36 - [MESSAGE][PASSED] - Text 'ini adalah deskripsi project' is set on object 'Object Repository/Project/Add project/Desc2'
+
+2023-02-11 13:32:36 - [TEST_STEP][FAILED] - uploadFile(findTestObject("Project/Add project/Poster"), "C:\FILE\TA\logo.png"): Unable to upload file 'C:\FILE\TA\logo.png' to object 'Object Repository/Project/Add project/Poster' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to upload file 'C:\FILE\TA\logo.png' to object 'Object Repository/Project/Add project/Poster'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.uploadFile(UploadFileKeyword.groovy:87)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.execute(UploadFileKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.uploadFile(WebUiBuiltInKeywords.groovy:4031)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$uploadFile$6.call(Unknown Source)
+	at TC10_Add project.run(TC10_Add project:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1676097081226.run(TempTestSuite1676097081226.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Project/Add project/Poster' located by '//div[@id='lk0PzQ5R']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.doCall(UploadFileKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.call(UploadFileKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.uploadFile(UploadFileKeyword.groovy:87)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.execute(UploadFileKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.uploadFile(WebUiBuiltInKeywords.groovy:4031)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$uploadFile$6.call(Unknown Source)
+	at Script1675149881867.run(Script1675149881867.groovy:34)
+	... 13 more
+)
+
+2023-02-11 13:33:07 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='lk0PzQ5R']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-02-11 13:33:07 - [MESSAGE][FAILED] - Unable to upload file 'C:\FILE\TA\logo.png' to object 'Object Repository/Project/Add project/Poster' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to upload file 'C:\FILE\TA\logo.png' to object 'Object Repository/Project/Add project/Poster'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.uploadFile(UploadFileKeyword.groovy:87)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.execute(UploadFileKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.uploadFile(WebUiBuiltInKeywords.groovy:4031)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$uploadFile$6.call(Unknown Source)
+	at TC10_Add project.run(TC10_Add project:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1676097081226.run(TempTestSuite1676097081226.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Project/Add project/Poster' located by '//div[@id='lk0PzQ5R']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.doCall(UploadFileKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.call(UploadFileKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.uploadFile(UploadFileKeyword.groovy:87)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.execute(UploadFileKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.uploadFile(WebUiBuiltInKeywords.groovy:4031)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$uploadFile$6.call(Unknown Source)
+	at Script1675149881867.run(Script1675149881867.groovy:34)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\GA502GU\\Katalon Studio\\TechnofestMhs5\\Reports\\20230211_133121\\TS01_TechnofestMhs\\20230211_133121\\1676097187454.png]]]]></system-out>
+         <system-err><![CDATA[2023-02-11 13:32:25 - [TEST_CASE][FAILED] - Test Cases/Project/TC10_Add project: Test Cases/Project/TC10_Add project FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to upload file 'C:\FILE\TA\logo.png' to object 'Object Repository/Project/Add project/Poster'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.uploadFile(UploadFileKeyword.groovy:87)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.execute(UploadFileKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.uploadFile(WebUiBuiltInKeywords.groovy:4031)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$uploadFile$6.call(Unknown Source)
+	at TC10_Add project.run(TC10_Add project:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1676097081226.run(TempTestSuite1676097081226.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Project/Add project/Poster' located by '//div[@id='lk0PzQ5R']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.doCall(UploadFileKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.call(UploadFileKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project/TC11_Add project tanpa mengisi form" time="7.498" classname="Test Cases/Project/TC11_Add project tanpa mengisi form" status="PASSED">
+         <system-out><![CDATA[2023-02-11 13:33:07 - [TEST_CASE][PASSED] - Test Cases/Project/TC11_Add project tanpa mengisi form: Test Cases/Project/TC11_Add project tanpa mengisi form
+
+2023-02-11 13:33:08 - [TEST_STEP][PASSED] - click(findTestObject("Project/View project/Project")): Object: 'Object Repository/Project/View project/Project' is clicked on
+
+2023-02-11 13:33:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/View project/Project' is clicked on
+
+2023-02-11 13:33:10 - [TEST_STEP][PASSED] - click(findTestObject("Project/View project/List Projects")): Object: 'Object Repository/Project/View project/List Projects' is clicked on
+
+2023-02-11 13:33:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/View project/List Projects' is clicked on
+
+2023-02-11 13:33:12 - [TEST_STEP][PASSED] - click(findTestObject("Project/Add project/Add Item")): Object: 'Object Repository/Project/Add project/Add Item' is clicked on
+
+2023-02-11 13:33:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/Add project/Add Item' is clicked on
+
+2023-02-11 13:33:14 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Project/Add project/Submit button"), 0): Scroll to object 'Object Repository/Project/Add project/Submit button' successfully
+
+2023-02-11 13:33:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-02-11 13:33:14 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Project/Add project/Submit button' successfully
+
+2023-02-11 13:33:14 - [TEST_STEP][PASSED] - click(findTestObject("Project/Add project/Submit button")): Object: 'Object Repository/Project/Add project/Submit button' is clicked on
+
+2023-02-11 13:33:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/Add project/Submit button' is clicked on
+
+2023-02-11 13:33:15 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2023-02-11 13:33:15 - [MESSAGE][PASSED] - Navigate back successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project/TC12_View project" time="3.767" classname="Test Cases/Project/TC12_View project" status="PASSED">
+         <system-out><![CDATA[2023-02-11 13:33:15 - [TEST_CASE][PASSED] - Test Cases/Project/TC12_View project: Test Cases/Project/TC12_View project
+
+2023-02-11 13:33:16 - [TEST_STEP][PASSED] - click(findTestObject("Project/View project/View button")): Object: 'Object Repository/Project/View project/View button' is clicked on
+
+2023-02-11 13:33:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/View project/View button' is clicked on
+
+2023-02-11 13:33:17 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Project/View project/Detail Test Project"), "Detail Test Project"): Actual text and expected text of test object 'Object Repository/Project/View project/Detail Test Project' are matched.
+
+2023-02-11 13:33:18 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Project/View project/Detail Test Project' are matched.
+
+2023-02-11 13:33:18 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Project/View project/Link Video"), 0): Scroll to object 'Object Repository/Project/View project/Link Video' successfully
+
+2023-02-11 13:33:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-02-11 13:33:19 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Project/View project/Link Video' successfully
+
+2023-02-11 13:33:19 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2023-02-11 13:33:19 - [MESSAGE][PASSED] - Navigate back successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project/TC13_Edit project" time="15.357" classname="Test Cases/Project/TC13_Edit project" status="PASSED">
+         <system-out><![CDATA[2023-02-11 13:33:19 - [TEST_CASE][PASSED] - Test Cases/Project/TC13_Edit project: Test Cases/Project/TC13_Edit project
+
+2023-02-11 13:33:20 - [TEST_STEP][PASSED] - setText(findTestObject("Project/Edit Project/Search"), "edit"): Text 'edit' is set on object 'Object Repository/Project/Edit Project/Search'
+
+2023-02-11 13:33:21 - [MESSAGE][PASSED] - Text 'edit' is set on object 'Object Repository/Project/Edit Project/Search'
+
+2023-02-11 13:33:21 - [TEST_STEP][PASSED] - click(findTestObject("Project/Edit Project/Edit button")): Object: 'Object Repository/Project/Edit Project/Edit button' is clicked on
+
+2023-02-11 13:33:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/Edit Project/Edit button' is clicked on
+
+2023-02-11 13:33:23 - [TEST_STEP][PASSED] - clearText(findTestObject("Project/Edit Project/Title")): Text of object 'Object Repository/Project/Edit Project/Title' is cleared
+
+2023-02-11 13:33:24 - [MESSAGE][PASSED] - Text of object 'Object Repository/Project/Edit Project/Title' is cleared
+
+2023-02-11 13:33:24 - [TEST_STEP][PASSED] - setText(findTestObject("Project/Edit Project/Title"), "Edit project baru"): Text 'Edit project baru' is set on object 'Object Repository/Project/Edit Project/Title'
+
+2023-02-11 13:33:25 - [MESSAGE][PASSED] - Text 'Edit project baru' is set on object 'Object Repository/Project/Edit Project/Title'
+
+2023-02-11 13:33:25 - [TEST_STEP][PASSED] - clearText(findTestObject("Project/Edit Project/Link code")): Text of object 'Object Repository/Project/Edit Project/Link code' is cleared
+
+2023-02-11 13:33:26 - [MESSAGE][PASSED] - Text of object 'Object Repository/Project/Edit Project/Link code' is cleared
+
+2023-02-11 13:33:26 - [TEST_STEP][PASSED] - setText(findTestObject("Project/Edit Project/Link code"), "inicode.com"): Text 'inicode.com' is set on object 'Object Repository/Project/Edit Project/Link code'
+
+2023-02-11 13:33:27 - [MESSAGE][PASSED] - Text 'inicode.com' is set on object 'Object Repository/Project/Edit Project/Link code'
+
+2023-02-11 13:33:27 - [TEST_STEP][PASSED] - clearText(findTestObject("Project/Edit Project/Link demo")): Text of object 'Object Repository/Project/Edit Project/Link demo' is cleared
+
+2023-02-11 13:33:27 - [MESSAGE][PASSED] - Text of object 'Object Repository/Project/Edit Project/Link demo' is cleared
+
+2023-02-11 13:33:27 - [TEST_STEP][PASSED] - setText(findTestObject("Project/Edit Project/Link demo"), "inidemo.com"): Text 'inidemo.com' is set on object 'Object Repository/Project/Edit Project/Link demo'
+
+2023-02-11 13:33:28 - [MESSAGE][PASSED] - Text 'inidemo.com' is set on object 'Object Repository/Project/Edit Project/Link demo'
+
+2023-02-11 13:33:28 - [TEST_STEP][PASSED] - clearText(findTestObject("Project/Edit Project/Link video")): Text of object 'Object Repository/Project/Edit Project/Link video' is cleared
+
+2023-02-11 13:33:29 - [MESSAGE][PASSED] - Text of object 'Object Repository/Project/Edit Project/Link video' is cleared
+
+2023-02-11 13:33:29 - [TEST_STEP][PASSED] - setText(findTestObject("Project/Edit Project/Link video"), "inivideo.com"): Text 'inivideo.com' is set on object 'Object Repository/Project/Edit Project/Link video'
+
+2023-02-11 13:33:30 - [MESSAGE][PASSED] - Text 'inivideo.com' is set on object 'Object Repository/Project/Edit Project/Link video'
+
+2023-02-11 13:33:30 - [TEST_STEP][PASSED] - click(findTestObject("Project/Edit Project/Submit button")): Object: 'Object Repository/Project/Edit Project/Submit button' is clicked on
+
+2023-02-11 13:33:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/Edit Project/Submit button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project/TC14_Edit project dengan mengosongkan form" time="10.491" classname="Test Cases/Project/TC14_Edit project dengan mengosongkan form" status="PASSED">
+         <system-out><![CDATA[2023-02-11 13:33:34 - [TEST_CASE][PASSED] - Test Cases/Project/TC14_Edit project dengan mengosongkan form: Test Cases/Project/TC14_Edit project dengan mengosongkan form
+
+2023-02-11 13:33:35 - [TEST_STEP][PASSED] - setText(findTestObject("Project/Edit Project/Search"), "Edit"): Text 'Edit' is set on object 'Object Repository/Project/Edit Project/Search'
+
+2023-02-11 13:33:36 - [MESSAGE][PASSED] - Text 'Edit' is set on object 'Object Repository/Project/Edit Project/Search'
+
+2023-02-11 13:33:36 - [TEST_STEP][PASSED] - click(findTestObject("Project/Edit Project/Edit button")): Object: 'Object Repository/Project/Edit Project/Edit button' is clicked on
+
+2023-02-11 13:33:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/Edit Project/Edit button' is clicked on
+
+2023-02-11 13:33:39 - [TEST_STEP][PASSED] - clearText(findTestObject("Project/Edit Project/Title")): Text of object 'Object Repository/Project/Edit Project/Title' is cleared
+
+2023-02-11 13:33:40 - [MESSAGE][PASSED] - Text of object 'Object Repository/Project/Edit Project/Title' is cleared
+
+2023-02-11 13:33:40 - [TEST_STEP][PASSED] - clearText(findTestObject("Project/Edit Project/Link code")): Text of object 'Object Repository/Project/Edit Project/Link code' is cleared
+
+2023-02-11 13:33:41 - [MESSAGE][PASSED] - Text of object 'Object Repository/Project/Edit Project/Link code' is cleared
+
+2023-02-11 13:33:41 - [TEST_STEP][PASSED] - clearText(findTestObject("Project/Edit Project/Link demo")): Text of object 'Object Repository/Project/Edit Project/Link demo' is cleared
+
+2023-02-11 13:33:41 - [MESSAGE][PASSED] - Text of object 'Object Repository/Project/Edit Project/Link demo' is cleared
+
+2023-02-11 13:33:41 - [TEST_STEP][PASSED] - clearText(findTestObject("Project/Edit Project/Link video")): Text of object 'Object Repository/Project/Edit Project/Link video' is cleared
+
+2023-02-11 13:33:42 - [MESSAGE][PASSED] - Text of object 'Object Repository/Project/Edit Project/Link video' is cleared
+
+2023-02-11 13:33:42 - [TEST_STEP][PASSED] - click(findTestObject("Project/Edit Project/Submit button")): Object: 'Object Repository/Project/Edit Project/Submit button' is clicked on
+
+2023-02-11 13:33:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/Edit Project/Submit button' is clicked on
+
+2023-02-11 13:33:44 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2023-02-11 13:33:44 - [MESSAGE][PASSED] - Navigate back successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project/TC15_Delete project" time="4.723" classname="Test Cases/Project/TC15_Delete project" status="PASSED">
+         <system-out><![CDATA[2023-02-11 13:33:45 - [TEST_CASE][PASSED] - Test Cases/Project/TC15_Delete project: Test Cases/Project/TC15_Delete project
+
+2023-02-11 13:33:46 - [TEST_STEP][PASSED] - setText(findTestObject("Project/Delete project/Search"), "delete"): Text 'delete' is set on object 'Object Repository/Project/Delete project/Search'
+
+2023-02-11 13:33:46 - [MESSAGE][PASSED] - Text 'delete' is set on object 'Object Repository/Project/Delete project/Search'
+
+2023-02-11 13:33:46 - [TEST_STEP][PASSED] - click(findTestObject("Project/Delete project/Delete button2")): Object: 'Object Repository/Project/Delete project/Delete button2' is clicked on
+
+2023-02-11 13:33:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/Delete project/Delete button2' is clicked on
+
+2023-02-11 13:33:48 - [TEST_STEP][PASSED] - click(findTestObject("Project/Delete project/Yes button")): Object: 'Object Repository/Project/Delete project/Yes button' is clicked on
+
+2023-02-11 13:33:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Project/Delete project/Yes button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Profile/TC16_Edit profile" time="11.083" classname="Test Cases/Profile/TC16_Edit profile" status="PASSED">
+         <system-out><![CDATA[2023-02-11 13:33:49 - [TEST_CASE][PASSED] - Test Cases/Profile/TC16_Edit profile: Test Cases/Profile/TC16_Edit profile
+
+2023-02-11 13:33:50 - [TEST_STEP][PASSED] - click(findTestObject("Profile/Profile icon")): Object: 'Object Repository/Profile/Profile icon' is clicked on
+
+2023-02-11 13:33:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Profile icon' is clicked on
+
+2023-02-11 13:33:54 - [TEST_STEP][PASSED] - click(findTestObject("Profile/My Profile")): Object: 'Object Repository/Profile/My Profile' is clicked on
+
+2023-02-11 13:33:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/My Profile' is clicked on
+
+2023-02-11 13:33:55 - [TEST_STEP][PASSED] - clearText(findTestObject("Profile/Name")): Text of object 'Object Repository/Profile/Name' is cleared
+
+2023-02-11 13:33:56 - [MESSAGE][PASSED] - Text of object 'Object Repository/Profile/Name' is cleared
+
+2023-02-11 13:33:56 - [TEST_STEP][PASSED] - setText(findTestObject("Profile/Name"), "Alif Fadil"): Text 'Alif Fadil' is set on object 'Object Repository/Profile/Name'
+
+2023-02-11 13:33:57 - [MESSAGE][PASSED] - Text 'Alif Fadil' is set on object 'Object Repository/Profile/Name'
+
+2023-02-11 13:33:57 - [TEST_STEP][PASSED] - clearText(findTestObject("Profile/Telephone")): Text of object 'Object Repository/Profile/Telephone' is cleared
+
+2023-02-11 13:33:58 - [MESSAGE][PASSED] - Text of object 'Object Repository/Profile/Telephone' is cleared
+
+2023-02-11 13:33:58 - [TEST_STEP][PASSED] - setText(findTestObject("Profile/Telephone"), "08231234567"): Text '08231234567' is set on object 'Object Repository/Profile/Telephone'
+
+2023-02-11 13:33:59 - [MESSAGE][PASSED] - Text '08231234567' is set on object 'Object Repository/Profile/Telephone'
+
+2023-02-11 13:33:59 - [TEST_STEP][PASSED] - click(findTestObject("Profile/Submit button")): Object: 'Object Repository/Profile/Submit button' is clicked on
+
+2023-02-11 13:34:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Submit button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Auth/TC07_Logout" time="7.079" classname="Test Cases/Auth/TC07_Logout" status="PASSED">
+         <system-out><![CDATA[2023-02-11 13:34:00 - [TEST_CASE][PASSED] - Test Cases/Auth/TC07_Logout: Test Cases/Auth/TC07_Logout
+
+2023-02-11 13:34:01 - [TEST_STEP][PASSED] - click(findTestObject("Auth/Logout/Icon user")): Object: 'Object Repository/Auth/Logout/Icon user' is clicked on
+
+2023-02-11 13:34:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Auth/Logout/Icon user' is clicked on
+
+2023-02-11 13:34:05 - [TEST_STEP][PASSED] - click(findTestObject("Auth/Logout/Sign Out")): Object: 'Object Repository/Auth/Logout/Sign Out' is clicked on
+
+2023-02-11 13:34:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Auth/Logout/Sign Out' is clicked on
+
+2023-02-11 13:34:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-02-11 13:34:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-11 13:31:38 - [TEST_SUITE][FAILED] - TS01_TechnofestMhs: Test Cases/Project/TC10_Add project FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to upload file 'C:\FILE\TA\logo.png' to object 'Object Repository/Project/Add project/Poster'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.uploadFile(UploadFileKeyword.groovy:87)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.execute(UploadFileKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.uploadFile(WebUiBuiltInKeywords.groovy:4031)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$uploadFile$6.call(Unknown Source)
+	at TC10_Add project.run(TC10_Add project:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1676097081226.run(TempTestSuite1676097081226.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Project/Add project/Poster' located by '//div[@id='lk0PzQ5R']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.doCall(UploadFileKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.call(UploadFileKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-02-11 13:31:38 - [TEST_SUITE][FAILED] - TS01_TechnofestMhs: Test Cases/Project/TC10_Add project FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to upload file 'C:\FILE\TA\logo.png' to object 'Object Repository/Project/Add project/Poster'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.uploadFile(UploadFileKeyword.groovy:87)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword.execute(UploadFileKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.uploadFile(WebUiBuiltInKeywords.groovy:4031)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$uploadFile$6.call(Unknown Source)
+	at TC10_Add project.run(TC10_Add project:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1676097081226.run(TempTestSuite1676097081226.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Project/Add project/Poster' located by '//div[@id='lk0PzQ5R']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.doCall(UploadFileKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.UploadFileKeyword$_uploadFile_closure1.call(UploadFileKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Action button</name>
+   <tag></tag>
+   <elementGuidId>ffdad3b5-63e1-4c5b-8a34-efb57d071c48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datatables']/tbody/tr[2]/td[5]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>53706194-da96-4945-a167-d1757b612b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-folder</value>
+      <webElementGuid>11efcf69-684d-440d-9f6c-53997407a16a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatables&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[@class=&quot;text-right&quot;]/a[@class=&quot;btn btn-sm btn-primary btn-round&quot;]/i[@class=&quot;mdi mdi-folder&quot;]</value>
+      <webElementGuid>fa55ce8b-8f03-46c4-b1ff-d4a2f51ad6b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datatables']/tbody/tr[2]/td[5]/a/i</value>
+      <webElementGuid>e7e7d649-115b-43d8-a114-bb5d6f67c19e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]/a/i</value>
+      <webElementGuid>f0c74f4c-1ed6-40a5-888d-00163f56669e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

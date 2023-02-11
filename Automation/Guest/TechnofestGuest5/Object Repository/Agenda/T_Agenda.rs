@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>T_Agenda</name>
+   <tag></tag>
+   <elementGuidId>2f2d0d29-7bbc-47cc-a428-1e1ce5cc89f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='agenda']/div[2]/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#agenda > div.auto-container > div.sec-title.text-center > h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>4907d340-4a16-4794-a7b2-5703c5488536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agenda</value>
+      <webElementGuid>130d61f9-5f7c-4a2e-9520-0f6d68b8e2b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;agenda&quot;)/div[@class=&quot;auto-container&quot;]/div[@class=&quot;sec-title text-center&quot;]/h2[1]</value>
+      <webElementGuid>1acae0f6-81cd-4a79-a55b-54acf02f1177</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='agenda']/div[2]/div/h2</value>
+      <webElementGuid>450a1a29-6a13-439a-b7dc-064a4be7ac64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STIKI TECHNOFEST 5.0'])[3]/following::h2[1]</value>
+      <webElementGuid>4e6200e0-ebca-47cd-9d2d-869904435212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alumni TI 2012'])[2]/following::h2[1]</value>
+      <webElementGuid>30fab6fc-a923-4677-82fa-f391caafd8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tips To Make The Most Of Your Internship Program'])[1]/preceding::h2[1]</value>
+      <webElementGuid>8134fbcb-bd61-4d7b-9f07-a7f129baf9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Speaker: Timoty Des Christian'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5bb1b2f1-4389-42bf-afa8-99bf52fe003a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[5]/div[2]/div/h2</value>
+      <webElementGuid>528a14a8-58eb-4f6f-9085-952798d4f99f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Agenda' or . = 'Agenda')]</value>
+      <webElementGuid>c58442e3-8834-4365-acbf-9c58935c0f38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

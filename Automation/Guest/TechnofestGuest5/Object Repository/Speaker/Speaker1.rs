@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Speaker1</name>
+   <tag></tag>
+   <elementGuidId>a0a0eca3-734c-4e26-a1eb-b8d9ea01a405</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='pembicara']/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pembicara > div.auto-container > div.sec-title.text-center > span.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d75b75f2-164d-4ee5-935e-729208e80255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>1bdd27f7-1b6c-4f98-96c9-05703a28ff90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Speaker</value>
+      <webElementGuid>9b5b6e41-af43-4304-9a27-2d732f7357ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pembicara&quot;)/div[@class=&quot;auto-container&quot;]/div[@class=&quot;sec-title text-center&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>02c903eb-a7a9-4391-ad6a-9828b8fe73b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='pembicara']/div/div/span</value>
+      <webElementGuid>441aa1f5-3772-4a3d-9f16-501b145e0c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIHAT'])[1]/following::span[1]</value>
+      <webElementGuid>0fbc6495-39b3-4579-877a-2d3faa52b0ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TECHNOFEST 5.0'])[3]/following::span[2]</value>
+      <webElementGuid>e07c8e84-22f3-44c5-a5ce-8488cfaa348d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EVENT'])[1]/preceding::span[1]</value>
+      <webElementGuid>f0a1cf46-9213-4571-b972-7ced26d5c284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Intern MSIB Batch 3'])[1]/preceding::span[1]</value>
+      <webElementGuid>ad740c00-8a50-47dd-8780-5f1aba37b497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div/span</value>
+      <webElementGuid>86b2fd52-f7c6-405e-b261-e67ba046c9b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Speaker' or . = 'Speaker')]</value>
+      <webElementGuid>169153c5-f127-4264-afb6-e72e1163e049</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

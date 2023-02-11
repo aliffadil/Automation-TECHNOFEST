@@ -1,0 +1,11 @@
+{"testCaseName":"Test Cases/Auth/TC02-05_Login","testCaseId":"Test Cases/Auth/TC02-05_Login","iterationVariableName":""}
+{"testCaseName":"Test Cases/Dashboard/TC08_View active project dan non active project","testCaseId":"Test Cases/Dashboard/TC08_View active project dan non active project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC09_View event","testCaseId":"Test Cases/Project/TC09_View event","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC10_Add project","testCaseId":"Test Cases/Project/TC10_Add project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC11_Add project tanpa mengisi form","testCaseId":"Test Cases/Project/TC11_Add project tanpa mengisi form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC12_View project","testCaseId":"Test Cases/Project/TC12_View project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC13_Edit project","testCaseId":"Test Cases/Project/TC13_Edit project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC14_Edit project dengan mengosongkan form","testCaseId":"Test Cases/Project/TC14_Edit project dengan mengosongkan form","iterationVariableName":""}
+{"testCaseName":"Test Cases/Project/TC15_Delete project","testCaseId":"Test Cases/Project/TC15_Delete project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Profile/TC16_Edit profile","testCaseId":"Test Cases/Profile/TC16_Edit profile","iterationVariableName":""}
+{"testCaseName":"Test Cases/Auth/TC07_Logout","testCaseId":"Test Cases/Auth/TC07_Logout","iterationVariableName":""}

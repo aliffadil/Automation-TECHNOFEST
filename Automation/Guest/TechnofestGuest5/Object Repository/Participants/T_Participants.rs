@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>T_Participants</name>
+   <tag></tag>
+   <elementGuidId>398db72f-2e62-4672-ac8b-8ef07c5b03a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='sect-kategori-lomba']/div/div[2]/div/h1/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>ab2f6f43-2d3e-46dd-a523-713e6222f830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Participants</value>
+      <webElementGuid>486e0732-1b7e-4b31-bfb7-d4a0930781e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sect-kategori-lomba&quot;)/div[@class=&quot;auto-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mb-3&quot;]/h1[@class=&quot;text-center&quot;]/b[1]</value>
+      <webElementGuid>a27088bf-b314-4d53-af33-75dea8fcb15e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='sect-kategori-lomba']/div/div[2]/div/h1/b</value>
+      <webElementGuid>06da5202-e6fb-4782-b31d-06ece23bffe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archive'])[2]/following::b[1]</value>
+      <webElementGuid>a37a44a9-0b80-4fcd-98b8-cdd6b1ce5b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quizioner'])[2]/following::b[1]</value>
+      <webElementGuid>129f1a78-2cb9-460d-8200-156d7a3eee06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Participants'])[1]/preceding::b[1]</value>
+      <webElementGuid>7246dc94-b4c0-49bc-ac9c-b422320bfd86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search:'])[1]/preceding::b[1]</value>
+      <webElementGuid>3dc906f2-08c0-4cc0-b336-dd158e4b7f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>f8c6e8df-aea7-4927-9ac1-65af57120a75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Participants' or . = 'Participants')]</value>
+      <webElementGuid>ee471538-f7e7-421b-aba0-cc96fd16aa85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

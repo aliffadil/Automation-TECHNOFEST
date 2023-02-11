@@ -1,0 +1,89 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS01_Technofest Guest,Chrome 110.0.0.0,,,2023-02-11 13:11:03,2023-02-11 13:12:49,1m - 45.961s,PASSED
+,,,,,,,
+"Test Cases/Home/TC01_View jumlah participant, project, dan agenda",Chrome 110.0.0.0,,,2023-02-11 13:11:04,2023-02-11 13:11:43,38.933s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-11 13:11:05,2023-02-11 13:11:11,5.499s,PASSED
+"navigateToUrl(""https://technofest.stiki.ac.id/"")",Chrome 110.0.0.0,,,2023-02-11 13:11:11,2023-02-11 13:11:23,12.318s,PASSED
+maximizeWindow(),Chrome 110.0.0.0,,,2023-02-11 13:11:23,2023-02-11 13:11:23,0.242s,PASSED
+"click(findTestObject(""Home/Home""))",Chrome 110.0.0.0,,,2023-02-11 13:11:23,2023-02-11 13:11:37,13.430s,PASSED
+"scrollToElement(findTestObject(""Home/Welcome to STIKI TECHNOFEST 5.0""), 0)",Chrome 110.0.0.0,,,2023-02-11 13:11:37,2023-02-11 13:11:38,1.163s,PASSED
+"verifyElementText(findTestObject(""Home/Participants""), ""Participants"")",Chrome 110.0.0.0,,,2023-02-11 13:11:38,2023-02-11 13:11:42,3.512s,PASSED
+"verifyElementText(findTestObject(""Home/Project""), ""Project"")",Chrome 110.0.0.0,,,2023-02-11 13:11:42,2023-02-11 13:11:42,0.589s,PASSED
+"verifyElementText(findTestObject(""Home/Agenda""), ""Agenda"")",Chrome 110.0.0.0,,,2023-02-11 13:11:42,2023-02-11 13:11:43,0.609s,PASSED
+,,,,,,,
+Test Cases/Participants/TC02_View participants,Chrome 110.0.0.0,,,2023-02-11 13:11:43,2023-02-11 13:11:50,7.673s,PASSED
+"click(findTestObject(""Participants/Participants1""))",Chrome 110.0.0.0,,,2023-02-11 13:11:44,2023-02-11 13:11:46,1.463s,PASSED
+"verifyElementText(findTestObject(""Participants/T_Participants""), ""Participants"")",Chrome 110.0.0.0,,,2023-02-11 13:11:46,2023-02-11 13:11:47,0.833s,PASSED
+"scrollToElement(findTestObject(""Participants/Our Participants""), 0)",Chrome 110.0.0.0,,,2023-02-11 13:11:47,2023-02-11 13:11:47,0.543s,PASSED
+"click(findTestObject(""Participants/Next""))",Chrome 110.0.0.0,,,2023-02-11 13:11:47,2023-02-11 13:11:48,0.874s,PASSED
+"click(findTestObject(""Participants/Previous""))",Chrome 110.0.0.0,,,2023-02-11 13:11:48,2023-02-11 13:11:49,0.691s,PASSED
+"setText(findTestObject(""Participants/Search""), ""alif"")",Chrome 110.0.0.0,,,2023-02-11 13:11:49,2023-02-11 13:11:50,1.203s,PASSED
+"verifyElementText(findTestObject(""Participants/Alif Fadil Syaifullah""), ""Alif Fadil Syaifullah"")",Chrome 110.0.0.0,,,2023-02-11 13:11:50,2023-02-11 13:11:50,0.557s,PASSED
+,,,,,,,
+Test Cases/Agenda/TC03_View agenda,Chrome 110.0.0.0,,,2023-02-11 13:11:50,2023-02-11 13:11:55,4.794s,PASSED
+"click(findTestObject(""Agenda/Agenda""))",Chrome 110.0.0.0,,,2023-02-11 13:11:52,2023-02-11 13:11:53,1.295s,PASSED
+"verifyElementText(findTestObject(""Agenda/T_Agenda""), ""Agenda"")",Chrome 110.0.0.0,,,2023-02-11 13:11:53,2023-02-11 13:11:53,0.674s,PASSED
+"click(findTestObject(""Agenda/How to Design A Mobile App in Lunacy""))",Chrome 110.0.0.0,,,2023-02-11 13:11:53,2023-02-11 13:11:55,1.193s,PASSED
+"click(findTestObject(""Agenda/Close button""))",Chrome 110.0.0.0,,,2023-02-11 13:11:55,2023-02-11 13:11:55,0.550s,PASSED
+,,,,,,,
+Test Cases/Speaker/TC04_View speaker,Chrome 110.0.0.0,,,2023-02-11 13:11:55,2023-02-11 13:11:58,3.054s,PASSED
+"click(findTestObject(""Speaker/Speaker""))",Chrome 110.0.0.0,,,2023-02-11 13:11:56,2023-02-11 13:11:57,0.638s,PASSED
+"verifyElementText(findTestObject(""Speaker/T_Speaker""), ""SPEAKER"")",Chrome 110.0.0.0,,,2023-02-11 13:11:57,2023-02-11 13:11:58,0.726s,PASSED
+"verifyElementText(findTestObject(""Speaker/Adnan Zulkarnain, S.Kom., M.M.S.I""), ""Adnan Zulkarnain, S.Kom., M.M.S.I"")",Chrome 110.0.0.0,,,2023-02-11 13:11:58,2023-02-11 13:11:58,0.547s,PASSED
+,,,,,,,
+Test Cases/Project/TC05_View project,Chrome 110.0.0.0,,,2023-02-11 13:11:58,2023-02-11 13:12:07,8.552s,PASSED
+"click(findTestObject(""Project/Project""))",Chrome 110.0.0.0,,,2023-02-11 13:11:59,2023-02-11 13:12:00,0.570s,PASSED
+"verifyElementText(findTestObject(""Project/List of Project""), ""List of Project"")",Chrome 110.0.0.0,,,2023-02-11 13:12:00,2023-02-11 13:12:00,0.539s,PASSED
+"scrollToElement(findTestObject(""Project/See More Projects""), 0)",Chrome 110.0.0.0,,,2023-02-11 13:12:00,2023-02-11 13:12:01,0.500s,PASSED
+"click(findTestObject(""Project/See More Projects""))",Chrome 110.0.0.0,,,2023-02-11 13:12:01,2023-02-11 13:12:02,1.518s,PASSED
+"setText(findTestObject(""Project/Search""), ""game"")",Chrome 110.0.0.0,,,2023-02-11 13:12:02,2023-02-11 13:12:04,1.377s,PASSED
+"click(findTestObject(""Project/Cari button""))",Chrome 110.0.0.0,,,2023-02-11 13:12:04,2023-02-11 13:12:05,1.206s,PASSED
+"click(findTestObject(""Project/Selengkapnya""))",Chrome 110.0.0.0,,,2023-02-11 13:12:05,2023-02-11 13:12:07,1.904s,PASSED
+,,,,,,,
+Test Cases/Event/TC06_TECHNOFEST 1.0,Chrome 110.0.0.0,,,2023-02-11 13:12:07,2023-02-11 13:12:13,5.720s,PASSED
+"click(findTestObject(""Event/Event""))",Chrome 110.0.0.0,,,2023-02-11 13:12:08,2023-02-11 13:12:09,0.741s,PASSED
+"navigateToUrl(""https://technofest.stiki.ac.id/en/event/1"")",Chrome 110.0.0.0,,,2023-02-11 13:12:09,2023-02-11 13:12:12,3.177s,PASSED
+"verifyElementText(findTestObject(""Event/Event Gallery TECHNOFEST 1.0""), ""Event Gallery TECHNOFEST 1.0"")",Chrome 110.0.0.0,,,2023-02-11 13:12:12,2023-02-11 13:12:13,0.690s,PASSED
+,,,,,,,
+Test Cases/Event/TC07_TECHNOFEST 2.0,Chrome 110.0.0.0,,,2023-02-11 13:12:13,2023-02-11 13:12:16,3.138s,PASSED
+"click(findTestObject(""Event/Event""))",Chrome 110.0.0.0,,,2023-02-11 13:12:14,2023-02-11 13:12:14,0.563s,PASSED
+"navigateToUrl(""https://technofest.stiki.ac.id/en/event/2"")",Chrome 110.0.0.0,,,2023-02-11 13:12:14,2023-02-11 13:12:15,0.838s,PASSED
+"verifyElementText(findTestObject(""Event/Event Gallery TECHNOFEST 2.0""), ""Event Gallery TECHNOFEST 2.0"")",Chrome 110.0.0.0,,,2023-02-11 13:12:15,2023-02-11 13:12:16,0.658s,PASSED
+,,,,,,,
+Test Cases/Event/TC08_TECHNOFEST 3.0,Chrome 110.0.0.0,,,2023-02-11 13:12:16,2023-02-11 13:12:18,2.669s,PASSED
+"click(findTestObject(""Event/Event""))",Chrome 110.0.0.0,,,2023-02-11 13:12:17,2023-02-11 13:12:17,0.500s,PASSED
+"navigateToUrl(""https://technofest.stiki.ac.id/en/event/3"")",Chrome 110.0.0.0,,,2023-02-11 13:12:17,2023-02-11 13:12:18,0.527s,PASSED
+"verifyElementText(findTestObject(""Event/Event Gallery TECHNOFEST 3.0""), ""Event Gallery TECHNOFEST 3.0"")",Chrome 110.0.0.0,,,2023-02-11 13:12:18,2023-02-11 13:12:18,0.532s,PASSED
+,,,,,,,
+Test Cases/Event/TC09_TECHNOFEST 4.0,Chrome 110.0.0.0,,,2023-02-11 13:12:18,2023-02-11 13:12:21,2.744s,PASSED
+"click(findTestObject(""Event/Event""))",Chrome 110.0.0.0,,,2023-02-11 13:12:19,2023-02-11 13:12:20,0.555s,PASSED
+"navigateToUrl(""https://technofest.stiki.ac.id/en/event/5"")",Chrome 110.0.0.0,,,2023-02-11 13:12:20,2023-02-11 13:12:20,0.575s,PASSED
+"verifyElementText(findTestObject(""Event/Event Gallery TECHNOFEST 4.0""), ""Event Gallery TECHNOFEST 4.0"")",Chrome 110.0.0.0,,,2023-02-11 13:12:20,2023-02-11 13:12:21,0.691s,PASSED
+,,,,,,,
+Test Cases/Event/TC10_TECHNOFEST 5.0,Chrome 110.0.0.0,,,2023-02-11 13:12:21,2023-02-11 13:12:24,2.731s,PASSED
+"click(findTestObject(""Event/Event""))",Chrome 110.0.0.0,,,2023-02-11 13:12:22,2023-02-11 13:12:23,0.556s,PASSED
+"navigateToUrl(""https://technofest.stiki.ac.id/en/event/6"")",Chrome 110.0.0.0,,,2023-02-11 13:12:23,2023-02-11 13:12:23,0.666s,PASSED
+"verifyElementText(findTestObject(""Event/Event Gallery TECHNOFEST 5.0""), ""Event Gallery TECHNOFEST 5.0"")",Chrome 110.0.0.0,,,2023-02-11 13:12:23,2023-02-11 13:12:24,0.566s,PASSED
+,,,,,,,
+Test Cases/Quizioner/TC11_Submit quizioner,Chrome 110.0.0.0,,,2023-02-11 13:12:24,2023-02-11 13:12:38,13.770s,PASSED
+"click(findTestObject(""Quizioner/Quizioner""))",Chrome 110.0.0.0,,,2023-02-11 13:12:25,2023-02-11 13:12:27,2.632s,PASSED
+"verifyElementText(findTestObject(""Quizioner/Kuesioner""), ""Kuesioner"")",Chrome 110.0.0.0,,,2023-02-11 13:12:27,2023-02-11 13:12:28,0.796s,PASSED
+"setText(findTestObject(""Quizioner/Q1""), ""Alif"")",Chrome 110.0.0.0,,,2023-02-11 13:12:28,2023-02-11 13:12:30,1.280s,PASSED
+"setText(findTestObject(""Quizioner/Q2""), ""Malang"")",Chrome 110.0.0.0,,,2023-02-11 13:12:30,2023-02-11 13:12:31,0.954s,PASSED
+"click(findTestObject(""Quizioner/Q3""))",Chrome 110.0.0.0,,,2023-02-11 13:12:31,2023-02-11 13:12:31,0.579s,PASSED
+"click(findTestObject(""Quizioner/Q4""))",Chrome 110.0.0.0,,,2023-02-11 13:12:31,2023-02-11 13:12:32,0.602s,PASSED
+"click(findTestObject(""Quizioner/Q5""))",Chrome 110.0.0.0,,,2023-02-11 13:12:32,2023-02-11 13:12:32,0.518s,PASSED
+"click(findTestObject(""Quizioner/Q6""))",Chrome 110.0.0.0,,,2023-02-11 13:12:32,2023-02-11 13:12:33,0.589s,PASSED
+"click(findTestObject(""Quizioner/Q7""))",Chrome 110.0.0.0,,,2023-02-11 13:12:33,2023-02-11 13:12:33,0.591s,PASSED
+"click(findTestObject(""Quizioner/Q8""))",Chrome 110.0.0.0,,,2023-02-11 13:12:33,2023-02-11 13:12:34,0.550s,PASSED
+"click(findTestObject(""Quizioner/Q9""))",Chrome 110.0.0.0,,,2023-02-11 13:12:34,2023-02-11 13:12:34,0.528s,PASSED
+"setText(findTestObject(""Quizioner/Q10""), ""Mantap"")",Chrome 110.0.0.0,,,2023-02-11 13:12:34,2023-02-11 13:12:35,0.939s,PASSED
+"click(findTestObject(""Quizioner/Submit button""))",Chrome 110.0.0.0,,,2023-02-11 13:12:35,2023-02-11 13:12:38,2.284s,PASSED
+,,,,,,,
+Test Cases/Archive/TC12_View archive,Chrome 110.0.0.0,,,2023-02-11 13:12:38,2023-02-11 13:12:49,11.085s,PASSED
+"click(findTestObject(""Archive/Archive""))",Chrome 110.0.0.0,,,2023-02-11 13:12:39,2023-02-11 13:12:43,4.062s,PASSED
+"verifyElementText(findTestObject(""Archive/Project Archive""), ""Project Archive"")",Chrome 110.0.0.0,,,2023-02-11 13:12:43,2023-02-11 13:12:44,0.887s,PASSED
+"setText(findTestObject(""Archive/Search""), ""TECHNOFEST 1.0"")",Chrome 110.0.0.0,,,2023-02-11 13:12:44,2023-02-11 13:12:45,1.409s,PASSED
+"click(findTestObject(""Archive/Search button""))",Chrome 110.0.0.0,,,2023-02-11 13:12:45,2023-02-11 13:12:46,1.051s,PASSED
+"click(findTestObject(""Archive/See More button""))",Chrome 110.0.0.0,,,2023-02-11 13:12:46,2023-02-11 13:12:48,1.528s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-11 13:12:48,2023-02-11 13:12:49,1.064s,PASSED

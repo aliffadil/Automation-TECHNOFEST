@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit button</name>
+   <tag></tag>
+   <elementGuidId>2d7a2b45-c12c-4fc1-9aa8-0c8bbb69face</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mdi.mdi-grease-pencil.menu-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_1016']/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>298e642a-8c61-498f-9afc-3b74c79b912f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-grease-pencil menu-icon</value>
+      <webElementGuid>cbded422-93ae-4af6-95d4-df8c0a1a521d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_1016&quot;)/a[@class=&quot;btn btn-sm btn-success btn-round&quot;]/i[@class=&quot;mdi mdi-grease-pencil menu-icon&quot;]</value>
+      <webElementGuid>06c65c23-54b9-49d6-8ed5-2364718a6027</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_1016']/a/i</value>
+      <webElementGuid>16b51ed4-c468-4fa3-95c4-129088e1c26c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/a/i</value>
+      <webElementGuid>e23040c2-9d3d-4df2-9edc-b77bbe2e1b90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

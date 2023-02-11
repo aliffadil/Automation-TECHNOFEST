@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Delete button major</name>
+   <tag></tag>
+   <elementGuidId>e677f1e5-cb7c-4901-89ad-67bf2641658d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='11']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#11 > i.mdi.mdi-delete</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0a03ba9c-f354-4ce2-a1af-bd2a19cf3c53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-delete</value>
+      <webElementGuid>999de0f9-dd30-48c8-bbae-e39f33edf207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;11&quot;)/i[@class=&quot;mdi mdi-delete&quot;]</value>
+      <webElementGuid>a2fa035c-3478-4b7c-8d7a-3fea21a2e6d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='11']/i</value>
+      <webElementGuid>6ecce3f1-1e78-4143-a4fa-64a2f2c89b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[4]/form/button/i</value>
+      <webElementGuid>9f902a6f-c4a3-4a77-b3f1-3bc03f0d8dd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Agenda</name>
+   <tag></tag>
+   <elementGuidId>9850f1ae-8fe0-408b-91b0-879f4c13a6e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='about']/div[2]/div/div/div/div[2]/div[3]/div/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>97964532-594b-40a5-a7c3-a5092ed3160d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>counter-title</value>
+      <webElementGuid>21f0d4cd-09b1-454c-8a3d-b6abd16608e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agenda</value>
+      <webElementGuid>3423785a-6a62-418c-94e3-9ca2f0ebf683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;about&quot;)/div[@class=&quot;auto-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;content-column col-lg-6 col-md-12 col-sm-12 order-2&quot;]/div[@class=&quot;inner-column&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;counter-column col-lg-4 col-md-4 col-sm-12 wow fadeInUp animated&quot;]/div[@class=&quot;count-box counted&quot;]/h6[@class=&quot;counter-title&quot;]</value>
+      <webElementGuid>66b9c5cf-9bba-42f0-a38e-a009d931e529</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='about']/div[2]/div/div/div/div[2]/div[3]/div/h6</value>
+      <webElementGuid>b884b8b9-dab2-44a7-ab56-2c6e4b8c9a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[3]/following::h6[1]</value>
+      <webElementGuid>6c9e9765-2934-4ed1-8f03-e0d6066707f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participants'])[3]/following::h6[2]</value>
+      <webElementGuid>ef41b393-3117-499e-b701-78f927f3e370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Archive'])[1]/preceding::h6[1]</value>
+      <webElementGuid>83fa47c6-c514-4c66-9aa7-c6222c2312de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Archive'])[2]/preceding::h6[1]</value>
+      <webElementGuid>88397b06-24de-4068-992d-b82c16d18539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h6</value>
+      <webElementGuid>20972cf2-e610-4ddb-a9e7-475d3e184828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Agenda' or . = 'Agenda')]</value>
+      <webElementGuid>f3ac3751-6281-4cee-a54a-b7c1be1cd8b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC32_Delete lecturer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdfc6e6e-5f1e-41d1-ad10-339ce4a86889</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Delete button project</name>
+   <tag></tag>
+   <elementGuidId>e4a55913-d81c-4856-9cc3-f16aef72fc95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='1074']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#1074 > i.mdi.mdi-delete</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ddb82d99-bdfb-45dc-8903-f92cf40bb844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-delete</value>
+      <webElementGuid>674133f2-1b82-4f85-a38e-ad3126369cc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1074&quot;)/i[@class=&quot;mdi mdi-delete&quot;]</value>
+      <webElementGuid>ecabb7ba-0f4a-41fc-8e3a-ccc0616327ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='1074']/i</value>
+      <webElementGuid>0be286e1-22ec-427d-83f9-49eeb8e9422f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]/form/button/i</value>
+      <webElementGuid>24e6d191-97dd-456b-a10a-2694d4c68410</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

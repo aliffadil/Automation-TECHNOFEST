@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC34_Add superadmin tanpa mengisi form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>482216e3-4154-4c12-99f1-f669361c38ab</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Response button</name>
+   <tag></tag>
+   <elementGuidId>78205eba-1afe-4ef7-89b4-9416b69963ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mdi.mdi-clipboard-outline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_1']/a[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4ef63d8c-c7bd-4a81-925f-ef056e326e69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-clipboard-outline</value>
+      <webElementGuid>e35d7512-3fb9-4041-b4fa-5d4226471214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_1&quot;)/a[@class=&quot;btn btn-sm btn-success btn-round&quot;]/i[@class=&quot;mdi mdi-clipboard-outline&quot;]</value>
+      <webElementGuid>5ecf4a9c-3f0e-422c-b42f-980462649e3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_1']/a[2]/i</value>
+      <webElementGuid>283baad2-58eb-44af-b08a-8c6ce6db5312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/a[2]/i</value>
+      <webElementGuid>17380cdf-b047-4c3a-91a5-46c230484eb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

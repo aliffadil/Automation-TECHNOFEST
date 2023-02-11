@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sequence</name>
+   <tag></tag>
+   <elementGuidId>ce4741bb-603d-4a46-afe1-7fa5d1d6fac7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;seq&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='seq']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a962dcfd-689c-4d43-8771-b9a646761737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>dc04fba1-3597-450c-a95a-0a16a11dbe1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>seq</value>
+      <webElementGuid>0a983e6d-95dd-4d1a-8e82-b47fd0dd5b36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    - Choose One-
+                                                                                                                                                            1
+                                                                                                        2
+                                                                                                        3
+                                                                                                        4
+                                                                                                        5
+                                                                                                        6
+                                                                                                                                                        </value>
+      <webElementGuid>70451b22-c9e0-4ae1-9d45-87c9b4e3da68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-scroller&quot;]/div[@class=&quot;container-fluid page-body-wrapper&quot;]/div[@class=&quot;main-panel&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 grid-margin stretch-card&quot;]/div[@class=&quot;col-md-12 grid-margin stretch-card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;form-group label-floating is-empty&quot;]/select[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>d6c74c70-a6cc-4937-b48b-138e93a8c9cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='seq']</value>
+      <webElementGuid>d36584bc-9950-47c5-9aa1-a2274083731a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sequence'])[1]/following::select[1]</value>
+      <webElementGuid>02bcb23e-9bdf-4113-b4f2-1854628d5a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caption'])[1]/following::select[1]</value>
+      <webElementGuid>f346df54-7d2f-4654-bc48-49cc098b90e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::select[1]</value>
+      <webElementGuid>d5940219-0ca7-4cb7-a9f9-c4d9a32f8654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is Required ?'])[1]/preceding::select[2]</value>
+      <webElementGuid>51a55bad-8ae2-4fe7-bce1-6c2682dc2f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/select</value>
+      <webElementGuid>3b8ad420-9bc8-4d97-8ebc-26e7e4cafdea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'seq' and (text() = '
+                                                    - Choose One-
+                                                                                                                                                            1
+                                                                                                        2
+                                                                                                        3
+                                                                                                        4
+                                                                                                        5
+                                                                                                        6
+                                                                                                                                                        ' or . = '
+                                                    - Choose One-
+                                                                                                                                                            1
+                                                                                                        2
+                                                                                                        3
+                                                                                                        4
+                                                                                                        5
+                                                                                                        6
+                                                                                                                                                        ')]</value>
+      <webElementGuid>8d59c193-159f-487d-b94d-9ff408d520bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
